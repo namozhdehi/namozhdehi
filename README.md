@@ -1,4 +1,4 @@
-<img src="https://cdn.prod.website-files.com/605c9e03d6553a5d82976ce2/665e07da9e4b02b65bce8883_1686653152-jpeg-optimizer-predictions-on-the-future-of-data-science-website-blog-banner-learn-page-0001.jpeg"  width="800" height="600">
+<img src="https://cdn.prod.website-files.com/605c9e03d6553a5d82976ce2/665e07da9e4b02b65bce8883_1686653152-jpeg-optimizer-predictions-on-the-future-of-data-science-website-blog-banner-learn-page-0001.jpeg"  width="400" height="300">
 
 ## Nahid Mozhdehi 👋
 I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. 
