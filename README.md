@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <img src="https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8" alt="Data Science" width="500" height="250" >
-    <title>Welcome to My GitHub Page</title>
+    
 </head>
 <body>
         
