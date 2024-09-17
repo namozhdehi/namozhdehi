@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-W4tTAkofIFMJkzue75mCAdOe?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=oqtxnyhvxEvOO1YT0eXGZEg%2BMRY88dFDv90NQceHfoE%3D" alt="Data Science" width="600" height="300" >
+  <img src="https://files.oaiusercontent.com/file-inH5utQDJgVJT2cFxjPRa5tR?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=zhdeIHFCURi53JVzqz/59BcGYAXEj%2BRnEn%2BhkBy9pfs%3D" alt="Data Science" width="600" height="300" >
 </div>
 
 ## :octocat:Nahid Mozhdehi 
@@ -83,7 +83,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 
 <!--
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-dRi2cr44d85SUEhsp73vM4O5?se=2024-09-17T14%3A55%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc3859c76-a67c-468e-9cae-5af7d8dfadbb.webp&sig=E/pxdtjTkYiTyplCGfhDO0E9ukCpQ9vAIG59BXBkTfU%3D" alt="Data Science" width="600" height="300" >
+  <img src="https://files.oaiusercontent.com/file-W4tTAkofIFMJkzue75mCAdOe?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=oqtxnyhvxEvOO1YT0eXGZEg%2BMRY88dFDv90NQceHfoE%3D" alt="Data Science" width="600" height="300" >
 </div>
 
 **namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
