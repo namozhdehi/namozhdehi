@@ -7,7 +7,7 @@ Top skills
 - 💬 Ask me about Python, SQL, Power BI, or GitHub.
 - 📫 How to reach me: namojdehi@gmail.com
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 <!--
 **namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
