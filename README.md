@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5612AQEjsypKUBYtEw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702920720152?e=1732147200&v=beta&t=KZwrrt4vs4fHPHB-8nY-SrEbgBhcojqZ7dFrxQZsvmM"  width="400" height="300">
+<img src="https://media.licdn.com/dms/image/v2/D5612AQEjsypKUBYtEw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702920720152?e=1732147200&v=beta&t=KZwrrt4vs4fHPHB-8nY-SrEbgBhcojqZ7dFrxQZsvmM" >
 
 ## Nahid Mozhdehi 👋
 I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. 
