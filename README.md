@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1><div align="center">Welcome to My GitHub Page</div></h1>
+    <h1><b><div align="center">Welcome to My GitHub Page</div></b></h1>
 </head>
 <body>
         
