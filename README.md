@@ -8,7 +8,7 @@
 <body>
         
 <div align="center">
-  <img src="https://github.com/namozhdehi/Image/blob/main/MH.webp" alt="Data Science" width="600" height="300" >
+  <img src="https://github.com/namozhdehi/Image/blob/main/VG.webp" alt="Data Science" width="600" height="300" >
 </div>
 
 <h2>:octocat: Nahid Mozhdehi</h2>
