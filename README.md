@@ -5,7 +5,7 @@
 ## :octocat:Nahid Mozhdehi 
 Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.
 
-### Top skills
+### 💎Top skills
 Machine Learning • Natural Language Processing (NLP) • Deep Learning • Generative AI
 
 ### Connect with me:
@@ -79,10 +79,6 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" />
 </p>
 
 
