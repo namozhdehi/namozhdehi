@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_720_1280/0/1583217310732?e=2147483647&v=beta&t=an15cumXvL1rLYucw3WqOUkf-27-B-l52jkmpEfPaKw" width="800" height="300">
 
-## Hi there 👋
+## Nahid Mozhdehi 👋
 I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. 
 
 ### Connect with me:
