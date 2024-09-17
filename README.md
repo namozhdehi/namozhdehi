@@ -25,7 +25,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 - **Master’s Degree** @ University of Maryland Global Campus (2020 - now)
 - **Master’s Degree** @ Shiraz University  (2005 - 2008)
 
-## 👩‍💻 Languages and Tools:
+## Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -105,4 +105,3 @@ Top skills
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
