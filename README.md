@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*7LEOTf-3VpXeE5qMxKW2TQ.jpeg"  width="600" height="250" >
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQEiZVcIsF1ptQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1683259886713?e=1732147200&v=beta&t=qaNfn5wc_Pwx4I_0uv_GW_truvTaz8w3qMNvw0eV6TY"  width="600" height="250" >
 </div>
 
 ## Nahid Mozhdehi 
