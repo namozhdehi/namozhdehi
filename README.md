@@ -11,40 +11,13 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
-## 🧑‍💻📜Experience
-<table>
-  <thead>
-    <tr>
-      <th style="background-color:#d1f7c4; color: green; padding: 10px;">Position</th>
-      <th style="background-color:#e8d1f7; color: purple; padding: 10px;">Company</th>
-      <th style="background-color:#d1f7c4; color: green; padding: 10px;">Work Period</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px;">Data Scientist</td>
-      <td style="padding: 10px;">CrowdDoing</td>
-      <td style="padding: 10px;">2024-04 — now</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Data Scientist</td>
-      <td style="padding: 10px;">Rapid Finance</td>
-      <td style="padding: 10px;">2022-11 — 2024-04</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Data Engineer</td>
-      <td style="padding: 10px;">Cendyn</td>
-      <td style="padding: 10px;">2022-03 — 2022-11</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">BI Developer</td>
-      <td style="padding: 10px;">SSI</td>
-      <td style="padding: 10px;">2019-01 — 2021-12</td>
-    </tr>
-  </tbody>
-</table>
-
-
+## 🧑‍💻 Experience
+| 🧑‍💻 **Position**     | 🏢 **Company**     | ⏳ **Work Period**     |
+|---------------------|---------------------|---------------------|
+| Data Scientist       | CrowdDoing          | 2024-04 — now       |
+| Data Scientist       | Rapid Finance       | 2022-11 — 2024-04   |
+| Data Engineer        | Cendyn              | 2022-03 — 2022-11   |
+| BI Developer         | SSI                 | 2019-01 — 2021-12   |
 
 ## 🎓 Education
 - **Boot Camp** @ Springboard (2024 - now)
