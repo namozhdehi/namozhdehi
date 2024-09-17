@@ -11,7 +11,7 @@ Top skills
 
 
 ### Languages and Tools:
-![Python](https://www.teeltech.com/wp-content/uploads/2013/06/python-logo-glassy-235x300.png)
+![Python](https://www.teeltech.com/wp-content/uploads/2013/06/python-logo-glassy-47x60.png)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!--
