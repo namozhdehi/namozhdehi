@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Page with Background</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-image: url('path_to_image/image.png');
+            background-size: cover;
+            background-position: center;
+            height: 200px; /* Adjust height as needed */
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header"></div>
+    <div class="content">
+        <h1>Welcome to My GitHub Page</h1>
+        <p>This is an example of a GitHub page with a background header.</p>
+    </div>
+</body>
+</html>
+
 <div align="center">
   <img src="https://files.oaiusercontent.com/file-ixi61Z9ruF0T6uCVELsRXdAL?se=2024-09-17T21%3A20%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D127c94ee-ae5b-402e-8d4f-b2589caf377e.webp&sig=aggw5JgJH85OBO/cMBO9s1iuZ%2BFvZ6bliSujwVWRPmI%3D" alt="Data Science" width="600" height="300" >
 </div>
