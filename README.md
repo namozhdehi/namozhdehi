@@ -14,37 +14,40 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ## 📜Experience
 ## Experience
 
+## Experience
+
 <table>
   <thead>
     <tr>
-      <th style="color: green;">Position</th>
-      <th style="color: purple;">Company</th>
-      <th style="color: green;">Work Period</th>
+      <th style="background-color:#d1f7c4; color: green; padding: 10px;">Position</th>
+      <th style="background-color:#e8d1f7; color: purple; padding: 10px;">Company</th>
+      <th style="background-color:#d1f7c4; color: green; padding: 10px;">Work Period</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Data Scientist</td>
-      <td>CrowdDoing</td>
-      <td>2024-04 — now</td>
+      <td style="padding: 10px;">Data Scientist</td>
+      <td style="padding: 10px;">CrowdDoing</td>
+      <td style="padding: 10px;">2024-04 — now</td>
     </tr>
     <tr>
-      <td>Data Scientist</td>
-      <td>Rapid Finance</td>
-      <td>2022-11 — 2024-04</td>
+      <td style="padding: 10px;">Data Scientist</td>
+      <td style="padding: 10px;">Rapid Finance</td>
+      <td style="padding: 10px;">2022-11 — 2024-04</td>
     </tr>
     <tr>
-      <td>Data Engineer</td>
-      <td>Cendyn</td>
-      <td>2022-03 — 2022-11</td>
+      <td style="padding: 10px;">Data Engineer</td>
+      <td style="padding: 10px;">Cendyn</td>
+      <td style="padding: 10px;">2022-03 — 2022-11</td>
     </tr>
     <tr>
-      <td>BI Developer</td>
-      <td>SSI</td>
-      <td>2019-01 — 2021-12</td>
+      <td style="padding: 10px;">BI Developer</td>
+      <td style="padding: 10px;">SSI</td>
+      <td style="padding: 10px;">2019-01 — 2021-12</td>
     </tr>
   </tbody>
 </table>
+
 
 | Position             | Company                 | Work Period           |
 |----------------------|-------------------------|-----------------------|
