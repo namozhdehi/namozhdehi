@@ -11,7 +11,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
-## 📜Experience
+## 🧑‍💻📜Experience
 <table>
   <thead>
     <tr>
