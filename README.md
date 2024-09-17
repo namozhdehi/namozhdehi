@@ -1,6 +1,7 @@
 <div class="content", align="center">
         <h1>Welcome to My GitHub Page</h1>
 </div>
+![GitHub views](https://komarev.com/ghpvc/?username=your-github-username&color=darkgreen)
 
 
 <div align="center">
