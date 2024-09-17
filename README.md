@@ -8,7 +8,7 @@
 <body>
         
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-ykPQaigMSyug9vIBbvfmmm93?se=2024-09-17T21%3A55%3A13Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=NhZE/kQp9g3erKm3GtLn5a9bgLg/olmFIINx4dEqEpo%3D" alt="Data Science" width="600" height="300" >
+  <img src="https://files.oaiusercontent.com/file-3zLzgFuGP6NUvUBfPyowXHFH?se=2024-09-17T22%3A04%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfb63da40-3546-4d75-93c7-a65d086f9d18.webp&sig=nyXoLDyOQm2DhUusjkkuxfmK8WkBA/Alz9ot40qVuZw%3D" alt="Data Science" width="600" height="300" >
 </div>
 
 <h2>:octocat: Nahid Mozhdehi</h2>
