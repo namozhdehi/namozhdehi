@@ -12,9 +12,9 @@ Top skills
 
 ### Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="40" height="40">
+![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 
-(https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="40" height="40">
 
 <!--
 **namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
