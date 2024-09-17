@@ -11,7 +11,7 @@ Top skills
 
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://www.python.org/static/img/python-logo@2x.png)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!--
