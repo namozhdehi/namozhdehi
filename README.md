@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-Te5A96b98XJsc20xwuHuqmDz?se=2024-09-17T15%3A30%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D485c9b81-9109-40bc-a676-6eb621650b5f.webp&sig=DdrwbGz3HZbUrifYDk4q5AtcNJT2lU0gmQ7qkPnvNcM%3D" alt="Data Science" width="600" height="300" >
+  <img src="https://files.oaiusercontent.com/file-W4tTAkofIFMJkzue75mCAdOe?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=oqtxnyhvxEvOO1YT0eXGZEg%2BMRY88dFDv90NQceHfoE%3D" alt="Data Science" width="600" height="300" >
 </div>
 
 ## :octocat:Nahid Mozhdehi 
