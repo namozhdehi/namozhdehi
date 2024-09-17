@@ -13,7 +13,8 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 
-## Languages and Tools:
+## <span style="color:darkgreen">Languages and Tools:</span>
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -28,6 +29,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a>
 </p>
+
 
 ## Libraries:
 <p align="left">
@@ -66,11 +68,22 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 
 
 <!--
+## Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oracle.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </a>
+</p>
 
-
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQEjsypKUBYtEw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702920720152?e=1732147200&v=beta&t=KZwrrt4vs4fHPHB-8nY-SrEbgBhcojqZ7dFrxQZsvmM"  width="600" height="250" >
-</div>
 **namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
