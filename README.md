@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C5612AQFLVeP9-KP-9w/article-cover_image-shrink_600_2000/0/1573974991231?e=2147483647&v=beta&t=9dx2RjDsCNQMCEsIUjgO2udsg7c5txri_e4_s183W-8"  width="600" height="250" >
+  <img src="https://camo.githubusercontent.com/393bbcb4720d7b178983c44c85263ae218521db5c12150eebe96c76854efe403/68747470733a2f2f7777772e6c6f7665666f72646174612e636f6d2f696d616765732f4372656469742d53636f72696e672e676966"  width="600" height="250" >
 </div>
 
 ## Nahid Mozhdehi 
