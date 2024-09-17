@@ -49,12 +49,6 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 </table>
 
 
-| Position             | Company                 | Work Period           |
-|----------------------|-------------------------|-----------------------|
-| Data Sientist        | CrowdDoing              | 2024-04 — now         |
-| Data Sientist        | Rapid Finance           | 2022-11 — 2024-04     |
-| Data Engineer        | Cendyn                  | 2022-03 — 2022-11     |
-| BI Developer         | SSI                     | 2019-01 — 2021-12     |
 
 ## 🎓 Education
 - **Boot Camp** @ Springboard (2024 - now)
