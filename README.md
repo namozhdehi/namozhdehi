@@ -20,12 +20,12 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 | Data Engineer        | Cendyn                  | 2022-03 — 2022-11     |
 | BI Developer         | SSI                     | 2019-01 — 2021-12     |
 
-## 👩‍🎓🎓 Education
+## 🎓 Education
 - **Boot Camp** @ Springboard (2024 - now)
 - **Master’s Degree** @ University of Maryland Global Campus (2020 - now)
 - **Master’s Degree** @ Shiraz University  (2005 - 2008)
 
-## Languages and Tools:
+## 👩‍💻 Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
