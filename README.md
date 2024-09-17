@@ -12,6 +12,39 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 ## 📜Experience
+## Experience
+
+<table>
+  <thead>
+    <tr>
+      <th style="color: green;">Position</th>
+      <th style="color: purple;">Company</th>
+      <th style="color: green;">Work Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data Scientist</td>
+      <td>CrowdDoing</td>
+      <td>2024-04 — now</td>
+    </tr>
+    <tr>
+      <td>Data Scientist</td>
+      <td>Rapid Finance</td>
+      <td>2022-11 — 2024-04</td>
+    </tr>
+    <tr>
+      <td>Data Engineer</td>
+      <td>Cendyn</td>
+      <td>2022-03 — 2022-11</td>
+    </tr>
+    <tr>
+      <td>BI Developer</td>
+      <td>SSI</td>
+      <td>2019-01 — 2021-12</td>
+    </tr>
+  </tbody>
+</table>
 
 | Position             | Company                 | Work Period           |
 |----------------------|-------------------------|-----------------------|
