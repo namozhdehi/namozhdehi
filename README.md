@@ -22,7 +22,7 @@
 </head>
 <body>
     <div class="header"></div>
-    <div class="content">
+    <div class="content", align="center">
         <h1>Welcome to My GitHub Page</h1>
     </div>
 
