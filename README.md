@@ -11,6 +11,16 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
+## 📈 Projects
+
+- [Project 1: Amazon Fine Food Reviews (NLP)](https://github.com/namozhdehi/Amazon-Fine-Food-Reviews)
+- [Project 2: PowerBI]( https://github.com/namozhdehi/PowerBI)
+- [Project 3: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+
+## 📈 Certicicates
+- **Boot Camp** @ Springboard (2024 - now)
+
+
 ## 🧑‍💻 Experience
 |    **Position**     |    **Company**     |   **Work Period**     |
 |---------------------|---------------------|---------------------|
@@ -73,13 +83,6 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 | *Total Contributions* | *Current Streak* | *Longest Streak* |
 |:-----------------------:|:------------------:|:------------------:|
 | *181* <br> Nov 15, 2022 - Present | ![streak](https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge&logo=fire&logoColor=orange) <br> Sep 17 | *5* <br> Feb 17 - Feb 21 |
-
-## 📈 Projects
-
-- [Project 1: Amazon Fine Food Reviews (NLP)](https://github.com/namozhdehi/Amazon-Fine-Food-Reviews)
-- [Project 2: PowerBI]( https://github.com/namozhdehi/PowerBI)
-- [Project 3: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
-
 
 
 <!--
