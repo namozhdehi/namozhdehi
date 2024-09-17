@@ -102,7 +102,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 <body>
     <h1>Welcome to My GitHub Page</h1>
     <p>
-        <img src="https://komarev.com/ghpvc/?username=your-github-username&color=darkgreen" alt="GitHub view counter">
+        <img src="https://komarev.com/ghpvc/?username=namozhdehi" alt="GitHub view counter">
     </p>
 </body>
 </html>
