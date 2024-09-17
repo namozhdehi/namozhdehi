@@ -13,7 +13,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 
-## <span style="color:darkgreen">Languages and Tools:</span>
+## <span style="color:green">Languages and Tools:</span>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> 
