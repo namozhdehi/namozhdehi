@@ -5,10 +5,10 @@
 ## :octocat:Nahid Mozhdehi 
 Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.
 
-### 💎Top skills
+### 💎 Top skills
 Machine Learning • Natural Language Processing (NLP) • Deep Learning • Generative AI
 
-### Connect with me:
+### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 ## 📜Experience
