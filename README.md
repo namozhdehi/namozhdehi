@@ -74,6 +74,12 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 |:-----------------------:|:------------------:|:------------------:|
 | *181* <br> Nov 15, 2022 - Present | ![streak](https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge&logo=fire&logoColor=orange) <br> Sep 17 | *5* <br> Feb 17 - Feb 21 |
 
+## 📈 Projects
+
+- [Project 1: Data Science Analysis](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+- [Project 2: Machine Learning Model](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+- [Project 3: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+
 
 <!--
 <div align="center">
