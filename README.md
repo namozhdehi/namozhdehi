@@ -62,6 +62,18 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 |:-----------------------:|:------------------:|:------------------:|
 | *181* <br> Nov 15, 2022 - Present | ![streak](https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge&logo=fire&logoColor=orange) <br> Sep 17 | *5* <br> Feb 17 - Feb 21 |
 
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" />
+</p>
+
+
+
 <!--
 <div align="center">
   <img src="https://files.oaiusercontent.com/file-iKYAnENJqoOWa2Wm0kge1imR?se=2024-09-17T03%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dbd9944f8-91ed-497a-b09e-090b32ae6e01.webp&sig=Tsppsg03uKpSh4ebMdtu7%2BSEFnu60ddnsBL/rttlCAg%3D"  width="600" height="250" >
