@@ -1,6 +1,6 @@
 <div class="content", align="center">
-        <h1>Welcome to My GitHub Page</h1>
-        <img src="https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8" alt="Data Science" width="600" height="300" >
+        <img src="https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8" alt="Data Science" width="1000" height="400" >
+        <h1>Welcome to My GitHub Page</h1>        
 </div>
 
 <div align="center">
