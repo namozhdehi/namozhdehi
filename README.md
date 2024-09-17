@@ -11,6 +11,15 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
+## Experience
+
+| Position             | Company                 | Field                             | Work Period           |
+|----------------------|-------------------------|-----------------------------------|-----------------------|
+| Consultant           | Deloitte                | Technology Strategy               | 2023-01 — now         |
+| Consultant           | BearingPoint            | Trade Promotion Management        | 2021-10 — 2022-11     |
+| Researcher           | Technical Univ. Berlin  | Quantitative Finance              | 2021-05 — 2022-10     |
+| Assistant to GM      | AHK Greater China       | Industry Services & Banking       | 2021-02 — 2021-04     |
+
 
 ## Languages and Tools:
 <p align="left">
