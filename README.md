@@ -68,18 +68,11 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
   </a>
 </p>
 
-## 📊 Contribution Stats
+## 📊 Stats
 
 | *Total Contributions* | *Current Streak* | *Longest Streak* |
 |:-----------------------:|:------------------:|:------------------:|
 | *181* <br> Nov 15, 2022 - Present | ![streak](https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge&logo=fire&logoColor=orange) <br> Sep 17 | *5* <br> Feb 17 - Feb 21 |
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 
 
 <!--
