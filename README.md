@@ -1,30 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Page with Background</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8');
-            background-size: cover;
-            background-position: center;
-            height: 200px; /* Adjust height as needed */
-        }
-        .content {
-            padding: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="header"></div>
-    <div class="content", align="center">
+<div class="content", align="center">
         <h1>Welcome to My GitHub Page</h1>
-    </div>
+</div>
 
 
 <div align="center">
