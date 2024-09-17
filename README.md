@@ -13,12 +13,12 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 
 ## Experience
 
-| Position             | Company                 | Field                             | Work Period           |
-|----------------------|-------------------------|-----------------------------------|-----------------------|
-| Consultant           | Deloitte                | Technology Strategy               | 2023-01 — now         |
-| Consultant           | BearingPoint            | Trade Promotion Management        | 2021-10 — 2022-11     |
-| Researcher           | Technical Univ. Berlin  | Quantitative Finance              | 2021-05 — 2022-10     |
-| Assistant to GM      | AHK Greater China       | Industry Services & Banking       | 2021-02 — 2021-04     |
+| Position             | Company                 | Work Period           |
+|----------------------|-------------------------|-----------------------|
+| Data Sientist        | CrowdDoing              | 2024-04 — now         |
+| Data Sientist        | Rapid Finance           | 2022-11 — 2024-04     |
+| Data Engineer        | Cendyn                  | 2022-03 — 2022-11     |
+| BI Developer         | SSI                     | 2019-01 — 2021-12     |
 
 
 ## Languages and Tools:
