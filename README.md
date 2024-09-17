@@ -2,7 +2,7 @@
   <img src="https://files.oaiusercontent.com/file-8msclv3XM2TbXgJM59HdWLK6?se=2024-09-17T04%3A17%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D57e547dd-2d37-4e25-af14-bd4728c5f404.webp&sig=c8YmFM2fu6FM3etC9Tpr5N9UGn8LusjlGQ6nS4RSjec%3D" alt="Data Science" width="600" height="250" >
 </div>
 
-## Nahid Mozhdehi 
+## :octocat:Nahid Mozhdehi 
 Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.
 
 ### Top skills
@@ -11,7 +11,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
-## Experience
+## 📜Experience
 
 | Position             | Company                 | Work Period           |
 |----------------------|-------------------------|-----------------------|
