@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-iKYAnENJqoOWa2Wm0kge1imR?se=2024-09-17T03%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dbd9944f8-91ed-497a-b09e-090b32ae6e01.webp&sig=Tsppsg03uKpSh4ebMdtu7%2BSEFnu60ddnsBL/rttlCAg%3D"  width="600" height="250" >
+  <img src="https://files.oaiusercontent.com/file-iKYAnENJqoOWa2Wm0kge1imR?se=2024-09-17T03%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dbd9944f8-91ed-497a-b09e-090b32ae6e01.webp&sig=Tsppsg03uKpSh4ebMdtu7%2BSEFnu60ddnsBL/rttlCAg%3D" alt="Data Science" width="600" height="250" >
 </div>
 
 ## Nahid Mozhdehi 
