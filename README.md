@@ -1,8 +1,13 @@
-<div class="content", align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <img src="https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8" alt="Data Science" width="500" height="250" >
-        <h1>Welcome to My GitHub Page</h1>        
-</div>
-
+    <title>Welcome to My GitHub Page</title>
+</head>
+<body>
+        
 <div align="center">
   <img src="https://files.oaiusercontent.com/file-ixi61Z9ruF0T6uCVELsRXdAL?se=2024-09-17T21%3A20%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D127c94ee-ae5b-402e-8d4f-b2589caf377e.webp&sig=aggw5JgJH85OBO/cMBO9s1iuZ%2BFvZ6bliSujwVWRPmI%3D" alt="Data Science" width="600" height="300" >
 </div>
