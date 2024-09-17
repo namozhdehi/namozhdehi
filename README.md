@@ -10,7 +10,7 @@ I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Po
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 
-## Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
