@@ -6,11 +6,19 @@ Top skills
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, SQL, Power BI, or GitHub.
 - 📫 How to reach me: namojdehi@gmail.com
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-profile)
 
 <!--
 **namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Top skills
+- 🌱 I’m currently learning deep learning and contributing to AI tools.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Python, SQL, Power BI, or GitHub.
+- 📫 How to reach me: namojdehi@gmail.com
 - 🔭 I’m currently working on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
