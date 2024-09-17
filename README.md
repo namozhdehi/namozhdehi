@@ -14,8 +14,10 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 ## 📈 Projects
 
 - [Project 1: Amazon Fine Food Reviews (NLP)](https://github.com/namozhdehi/Amazon-Fine-Food-Reviews)
-- [Project 2: PowerBI]( https://github.com/namozhdehi/PowerBI)
-- [Project 3: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+- [Project 2: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+- [Project 2: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
+- [Project 4: PowerBI]( https://github.com/namozhdehi/PowerBI)
+
 
 ## 📈 Certicicates
 - **Boot Camp** @ Springboard (2024 - now)
