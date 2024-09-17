@@ -130,9 +130,5 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=namozhdehi&color=green" alt="GitHub view counter">
 </p>
-<!-- Ribbon with image -->
-<div class="ribbon">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8" alt="Data Science">
-</div>
 </body>
 </html>
