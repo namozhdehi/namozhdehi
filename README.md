@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQEjsypKUBYtEw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702920720152?e=1732147200&v=beta&t=KZwrrt4vs4fHPHB-8nY-SrEbgBhcojqZ7dFrxQZsvmM"  width="600" height="250" >
+  <img src="https://media.licdn.com/dms/image/C5612AQFLVeP9-KP-9w/article-cover_image-shrink_600_2000/0/1573974991231?e=2147483647&v=beta&t=9dx2RjDsCNQMCEsIUjgO2udsg7c5txri_e4_s183W-8"  width="600" height="250" >
 </div>
 
 ## Nahid Mozhdehi 
@@ -15,6 +16,10 @@ I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Po
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="40" height="40">
 <!--
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQEjsypKUBYtEw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702920720152?e=1732147200&v=beta&t=KZwrrt4vs4fHPHB-8nY-SrEbgBhcojqZ7dFrxQZsvmM"  width="600" height="250" >
+</div>
 **namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
