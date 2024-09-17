@@ -3,7 +3,7 @@
 </div>
 
 ## Nahid Mozhdehi 
-I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. 
+I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, and Python, . 
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
