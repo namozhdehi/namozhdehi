@@ -76,7 +76,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 
 ## 📈 Projects
 
-- [Project 1: Amazon Fine Food Reviews](https://github.com/namozhdehi/Amazon-Fine-Food-Reviews)
+- [Project 1: Amazon Fine Food Reviews (NLP)](https://github.com/namozhdehi/Amazon-Fine-Food-Reviews)
 - [Project 2: Machine Learning Model](https://github.com/YOUR_USERNAME/PROJECT_NAME)
 - [Project 3: Web Scraping Tool](https://github.com/YOUR_USERNAME/PROJECT_NAME)
 
