@@ -24,7 +24,6 @@
     <div class="header"></div>
     <div class="content">
         <h1>Welcome to My GitHub Page</h1>
-        <p>This is an example of a GitHub page with a background header.</p>
     </div>
 
 
