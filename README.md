@@ -54,6 +54,13 @@ I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Po
   </a>
 </p>
 
+## Contribution Stats
+
+| **Total Contributions** | **Current Streak** | **Longest Streak** |
+|:-----------------------:|:------------------:|:------------------:|
+| **181** <br> Nov 15, 2022 - Present | ![streak](https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge&logo=fire&logoColor=orange) <br> Sep 17 | **5** <br> Feb 17 - Feb 21 |
+
+
 
 <!--
 
