@@ -2,12 +2,7 @@
 
 ## Hi there 👋
 I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. 
-Top skills
-- 🌱 I’m currently learning deep learning and contributing to AI tools.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, SQL, Power BI, or GitHub.
-- 📫 How to reach me: namojdehi@gmail.com
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
