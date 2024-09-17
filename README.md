@@ -25,7 +25,7 @@ I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Po
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a>
 </p>
-<!--
+
 ## Libraries:
 <p align="left">
   <a href="https://jupyter.org/" target="_blank">
@@ -53,6 +53,9 @@ I'm a results-driven Data Scientist with extensive experience in Oracle, SQL, Po
     <img src="https://www.analyticsvidhya.com/wp-content/uploads/2021/07/EDA-feature-image-850x428.png" alt="exploratory data analysis" width="40" height="40"/>
   </a>
 </p>
+
+<!--
+
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQEjsypKUBYtEw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702920720152?e=1732147200&v=beta&t=KZwrrt4vs4fHPHB-8nY-SrEbgBhcojqZ7dFrxQZsvmM"  width="600" height="250" >
