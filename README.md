@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://ictacademy.com.ng/wp-content/uploads/2021/01/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg"  width="600" height="250" >
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*7LEOTf-3VpXeE5qMxKW2TQ.jpeg"  width="600" height="250" >
 </div>
 
 ## Nahid Mozhdehi 
