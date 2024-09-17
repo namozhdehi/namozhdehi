@@ -86,17 +86,11 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
   <img src="https://files.oaiusercontent.com/file-W4tTAkofIFMJkzue75mCAdOe?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=oqtxnyhvxEvOO1YT0eXGZEg%2BMRY88dFDv90NQceHfoE%3D" alt="Data Science" width="600" height="300" >
 </div>
 
-**namozhdehi/namozhdehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://files.oaiusercontent.com/file-g2tIsDFSOVK2oPRgbGTZZR6y?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4c6a0368-5936-40fb-96fc-1f98d79c4bd1.webp&sig=ostS56L/QqbK8lYbBmzcnUslIcIwUJ1fKShlOeZPOys%3D
+https://files.oaiusercontent.com/file-xPPRcK2jnVRfnsc5dtTvfhRm?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dcfcf3f9e-e5fe-4e41-8685-beb2987c85f8.webp&sig=3AnTBxDfiY5Syn5rsDrxMAPf7WVTxWv4edW5Oe7hDPo%3D
+https://files.oaiusercontent.com/file-XnrqZjgBgRZh588oa1uJ9Y56?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D5bac27a8-f54b-43ec-89eb-d19d1205bbb0.webp&sig=vK4R79qmxE97EyxrPgAQiXqqHjM72zj6R5n%2BbL44YE8%3D
+https://files.oaiusercontent.com/file-rZvHvGhjZGP4A1SQ0P5LZwKe?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1d5c14b8-7369-46e4-b5cf-0dc825e36fdd.webp&sig=U2qDHQ0ervfstb3dZfC7/N43JBv44ig04wJCesGgioI%3D
+https://files.oaiusercontent.com/file-dRi2cr44d85SUEhsp73vM4O5?se=2024-09-17T15%3A35%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc3859c76-a67c-468e-9cae-5af7d8dfadbb.webp&sig=uNfVDXHzbXUBil%2BWgRDS9YmtpQjd43TH0PpEh7SAf6k%3D
 
-Here are some ideas to get you started:
-Top skills
-- 🌱 I’m currently learning deep learning and contributing to AI tools.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, SQL, Power BI, or GitHub.
-- 📫 How to reach me: namojdehi@gmail.com
-- 🔭 I’m currently working on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
