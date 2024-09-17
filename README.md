@@ -12,7 +12,7 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nahidmozhdehi)
 
 ## 🧑‍💻 Experience
-| 🧑‍💻 **Position**     | 🏢 **Company**     | ⏳ **Work Period**     |
+|    **Position**     |    **Company**     |   **Work Period**     |
 |---------------------|---------------------|---------------------|
 | Data Scientist       | CrowdDoing          | 2024-04 — now       |
 | Data Scientist       | Rapid Finance       | 2022-11 — 2024-04   |
