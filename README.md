@@ -26,8 +26,7 @@
         <h1>Welcome to My GitHub Page</h1>
         <p>This is an example of a GitHub page with a background header.</p>
     </div>
-</body>
-</html>
+
 
 <div align="center">
   <img src="https://files.oaiusercontent.com/file-ixi61Z9ruF0T6uCVELsRXdAL?se=2024-09-17T21%3A20%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D127c94ee-ae5b-402e-8d4f-b2589caf377e.webp&sig=aggw5JgJH85OBO/cMBO9s1iuZ%2BFvZ6bliSujwVWRPmI%3D" alt="Data Science" width="600" height="300" >
@@ -116,7 +115,8 @@ Machine Learning • Natural Language Processing (NLP) • Deep Learning • Gen
 | *Total Contributions* | *Current Streak* | *Longest Streak* |
 |:-----------------------:|:------------------:|:------------------:|
 | *181* <br> Nov 15, 2022 - Present | ![streak](https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge&logo=fire&logoColor=orange) <br> Sep 17 | *5* <br> Feb 17 - Feb 21 |
-
+</body>
+</html>
 
 <!--
 <div align="center">
