@@ -28,7 +28,6 @@
 <p>
   <a href="https://www.linkedin.com/in/nahidmozhdehi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
-    <h6> <b>Email:</b> namojdehi@gmail.com</h6>
     <p>Email: <a href="mailto:namojdehi@gmail.com" style="color: #1a73e8; text-decoration: underline;">namojdehi@gmail.com</a></p>
 
   </a>
