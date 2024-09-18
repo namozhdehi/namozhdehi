@@ -24,7 +24,7 @@
   <li>Generative AI</li>
 </ul>
 
-<h3>🌍 Connect with me:</h3>
+<h2>🌍 Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/nahidmozhdehi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
