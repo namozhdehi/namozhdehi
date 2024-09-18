@@ -125,7 +125,7 @@
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F10306%2F10306185.png&tbnid=oMkTDCDVtyglOM&vet=10CBIQxiAoAmoXChMIkOfLxrnLiAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fnlp_10306185&docid=Zccl7rYHvoJJrM&w=512&h=512&itg=1&q=NLP%20icon&ved=0CBIQxiAoAmoXChMIkOfLxrnLiAMVAAAAAB0AAAAAEAc" alt="NLP" width="80" height="80"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png" alt="Generative AI" width="80" height="80"/>
+    <img src="https://en.wikipedia.org/wiki/Generative_artificial_intelligence#/media/File:Dall-e_3_(jan_'24)_artificial_intelligence_icon.png" alt="Generative AI" width="80" height="80"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="80" height="80"/>
