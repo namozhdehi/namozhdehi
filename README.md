@@ -110,7 +110,29 @@
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://scipy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://towardsdatascience.com/exploratory-data-analysis-eda-a-complete-guide-for-beginners-861bd8e29d19" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="EDA" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLP" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Generative AI" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h2>📊 Stats</h2>
 <table>
