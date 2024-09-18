@@ -8,7 +8,7 @@
 <body>
 
 <!-- Background image section -->
-<div style="background-image: url('https://your-repository-url/assets/background-image.png'); background-size: cover; background-position: center; height: 400px; width: 100%;">
+<div style="background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8'); background-size: cover; background-position: center; height: 400px; width: 100%;">
 
 <!-- Optional content, like your GitHub profile picture -->
 <img src="https://your-repository-url/assets/your-profile-picture.png" alt="Profile" width="150" height="150" style="border-radius: 50%; display: block; margin: 50px auto;">
