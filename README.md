@@ -69,7 +69,7 @@
     <td>2022-11 — 2024-04</td>
   </tr>
   <tr>
-    <td>Data Engineer</td>
+    <td>Data Analyst</td>
     <td>Cendyn</td>
     <td>2022-03 — 2022-11</td>
   </tr>
