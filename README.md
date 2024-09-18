@@ -46,7 +46,7 @@
 
 <h2>🎓 Education</h2>
 <ul>
-  <li><strong>Boot Camp</strong> @ Springboard (2024 - now)</li>
+  <li><strong>Boot Camp</strong> @ Springboard (April 2024 - October 2024)</li>
   <li><strong>Master’s Degree</strong> @ University of Maryland Global Campus (2020 - now)</li>
   <li><strong>Master’s Degree</strong> @ Shiraz University (2005 - 2008)</li>
 </ul>
