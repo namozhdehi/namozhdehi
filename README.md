@@ -122,7 +122,7 @@
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="80"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Natural_language_processing_logo.png" alt="NLP" width="80" height="80"/>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F10306%2F10306185.png&tbnid=oMkTDCDVtyglOM&vet=10CBIQxiAoAmoXChMIkOfLxrnLiAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fnlp_10306185&docid=Zccl7rYHvoJJrM&w=512&h=512&itg=1&q=NLP%20icon&ved=0CBIQxiAoAmoXChMIkOfLxrnLiAMVAAAAAB0AAAAAEAc" alt="NLP" width="80" height="80"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
     <img src="https://i.ibb.co/k5VfLpD/generative-ai.png" alt="Generative AI" width="80" height="80"/>
