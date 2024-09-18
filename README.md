@@ -11,7 +11,7 @@
 <div style="background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQG-cQJw5e0Gkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726544788370?e=1732147200&v=beta&t=RUeTz2H_wxmKv2CQTY1ks0GolCC_grLGqegsMurhNd8'); background-size: cover; background-position: center; height: 400px; width: 100%;">
 
 <!-- Optional content, like your GitHub profile picture -->
-<img src="https://your-repository-url/assets/your-profile-picture.png" alt="Profile" width="150" height="150" style="border-radius: 50%; display: block; margin: 50px auto;">
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQGjEFA2P3CPiQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1550756799316?e=1732147200&v=beta&t=ox1qbZFVakMcpOxZ-0Pi2y1cgPhPIX9XQ53nf5YtWAA" alt="Profile" width="150" height="150" style="border-radius: 50%; display: block; margin: 50px auto;">
 
 </div>
       
