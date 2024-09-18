@@ -6,7 +6,15 @@
     <h1><b><div align="center">Welcome to My GitHub Page</div></b></h1>
 </head>
 <body>
-        
+
+<!-- Background image section -->
+<div style="background-image: url('https://your-repository-url/assets/background-image.png'); background-size: cover; background-position: center; height: 400px; width: 100%;">
+
+<!-- Optional content, like your GitHub profile picture -->
+<img src="https://your-repository-url/assets/your-profile-picture.png" alt="Profile" width="150" height="150" style="border-radius: 50%; display: block; margin: 50px auto;">
+
+</div>
+      
 <div align="center">
   <img src="https://github.com/namozhdehi/Image/blob/main/VG.webp" alt="Data Science" width="600" height="300" >
 </div>
