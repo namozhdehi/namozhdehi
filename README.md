@@ -29,6 +29,8 @@
   <a href="https://www.linkedin.com/in/nahidmozhdehi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
     <h6> <b>Email:</b> namojdehi@gmail.com</h6>
+    <p>Email: <a href="mailto:namojdehi@gmail.com" style="color: #1a73e8; text-decoration: underline;">namojdehi@gmail.com</a></p>
+
   </a>
 </p>
 
@@ -100,39 +102,40 @@
 <h2>📚 Libraries</h2>
 <p align="left">
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="80" height="80"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="80" height="80"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="80" height="80"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="80" height="80"/>
   </a>
   <a href="https://scipy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="scipy" width="80" height="80"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="80"/>
   </a>
   <a href="https://towardsdatascience.com/exploratory-data-analysis-eda-a-complete-guide-for-beginners-861bd8e29d19" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="EDA" width="40" height="40"/>
+    <img src="https://i.ibb.co/jTg7j5z/EDA.png" alt="EDA" width="80" height="80"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLP" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Natural_language_processing_logo.png" alt="NLP" width="80" height="80"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Generative AI" width="40" height="40"/>
+    <img src="https://i.ibb.co/k5VfLpD/generative-ai.png" alt="Generative AI" width="80" height="80"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="80" height="80"/>
   </a>
 </p>
+
 
 
 <h2>📊 Stats</h2>
