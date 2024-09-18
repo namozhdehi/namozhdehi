@@ -16,7 +16,7 @@
   Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.
 </p>
 
-<h2>💎 Top skills</h2>
+<h3>💎 Top skills</h3>
 <ul>
   <li>Machine Learning</li>
   <li>Natural Language Processing (NLP)</li>
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<h3>📈 Projects</h3>
+<h2>📈 Projects</h2>
 <ul>
   <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 1: Amazon Fine Food Reviews (NLP)</a></li>
   <li><a href="https://github.com/YOUR_USERNAME/PROJECT_NAME">Project 2: Web Scraping Tool</a></li>
@@ -39,19 +39,19 @@
   <li><a href="https://github.com/namozhdehi/PowerBI">Project 4: PowerBI</a></li>
 </ul>
 
-<h3>📈 Certificates</h3>
+<h2>📈 Certificates</h2>
 <ul>
   <li><strong>Boot Camp</strong> @ Springboard (2024 - now)</li>
 </ul>
 
-<h3>🎓 Education</h3>
+<h2>🎓 Education</h2>
 <ul>
   <li><strong>Boot Camp</strong> @ Springboard (2024 - now)</li>
   <li><strong>Master’s Degree</strong> @ University of Maryland Global Campus (2020 - now)</li>
   <li><strong>Master’s Degree</strong> @ Shiraz University (2005 - 2008)</li>
 </ul>
 
-<h3>🧑‍💻 Experience</h3>
+<h2>🧑‍💻 Experience</h2>
 <table>
   <tr>
     <th>Position</th>
@@ -80,7 +80,7 @@
   </tr>
 </table>
 
-<h3>👩‍💻 Languages and Tools</h3>
+<h2>👩‍💻 Languages and Tools</h2>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -96,7 +96,7 @@
   </a>
 </p>
 
-<h3>📚 Libraries</h3>
+<h2>📚 Libraries</h2>
 <p align="left">
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
@@ -112,7 +112,7 @@
   </a>
 </p>
 
-<h3>📊 Stats</h3>
+<h2>📊 Stats</h2>
 <table>
   <tr>
     <th>Total Contributions</th>
