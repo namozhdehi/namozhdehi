@@ -16,7 +16,7 @@
   Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.
 </p>
 
-<h3>💎 Top skills</h3>
+<h2>💎 Top skills</h2>
 <ul>
   <li>Machine Learning</li>
   <li>Natural Language Processing (NLP)</li>
