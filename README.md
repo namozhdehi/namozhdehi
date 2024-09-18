@@ -121,9 +121,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="80"/>
   </a>
-  <a href="https://towardsdatascience.com/exploratory-data-analysis-eda-a-complete-guide-for-beginners-861bd8e29d19" target="_blank">
-    <img src="https://i.ibb.co/jTg7j5z/EDA.png" alt="EDA" width="80" height="80"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Natural_language_processing_logo.png" alt="NLP" width="80" height="80"/>
   </a>
