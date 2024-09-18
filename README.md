@@ -28,7 +28,7 @@
 <p>
   <a href="https://www.linkedin.com/in/nahidmozhdehi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
-    <a href="Email: namojdehi@gmail.com">
+    <h6> Email: namojdehi@gmail.com</h6>
   </a>
 </p>
 
