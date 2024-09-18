@@ -116,7 +116,7 @@
     <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="80" height="80"/>
   </a>
   <a href="https://scipy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="scipy" width="80" height="80"/>
+    <img src="https://scipy.org/images/logo.svg" alt="scipy" width="80" height="80"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="80"/>
