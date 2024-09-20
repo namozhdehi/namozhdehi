@@ -37,7 +37,7 @@
 <ul>
   <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 1: Amazon Fine Food Reviews (NLP)</a></li>
   <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 2: Pneumonia Detection Using PyTorch (Deep Learning) </a></li>
-  <li><a href="https://github.com/YOUR_USERNAME/PROJECT_NAME">Project 3: Web Scraping Tool</a></li>
+  <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 3: Pathrise (Chatbot)</a></li>
   <li><a href="https://github.com/namozhdehi/PowerBI">Project 4: PowerBI</a></li>
 </ul>
 
