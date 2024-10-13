@@ -123,9 +123,6 @@
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="80" height="80"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/Generative_artificial_intelligence#/media/File:Dall-e_3_(jan_'24)_artificial_intelligence_icon.png" alt="Generative AI" width="80" height="80"/>
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="80" height="80"/>
   </a>
