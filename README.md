@@ -127,7 +127,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="80" height="80"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Plotly" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="80" height="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="100" height="80"/>
   </a>
 </p>
 
