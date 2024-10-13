@@ -42,7 +42,7 @@
 
 <h2>📈 Certificates</h2>
 <ul>
-  <li><strong>Boot Camp</strong> @ Springboard (April 2024 - now)</li>
+  <li><strong>Boot Camp</strong> @ Springboard (April 2024 - Nov 2024)</li>
 </ul>
 
 <h2>🎓 Education</h2>
