@@ -124,7 +124,10 @@
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="80" height="80"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="80" height="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="80" height="80"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Plotly" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="80" height="80"/>
   </a>
 </p>
 
