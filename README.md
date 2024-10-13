@@ -62,7 +62,7 @@
   <tr>
     <td>Data Scientist</td>
     <td>CrowdDoing</td>
-    <td>2024-04 — now</td>
+    <td>2024-02 — now</td>
   </tr>
   <tr>
     <td>Data Analyst</td>
