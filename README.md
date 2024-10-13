@@ -67,7 +67,7 @@
   <tr>
     <td>Data Analyst</td>
     <td>Cendyn</td>
-    <td>2022-03 — 2022-11</td>
+    <td>2022-03 — 2023-04</td>
   </tr>
   <tr>
     <td>BI Developer</td>
