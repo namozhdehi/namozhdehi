@@ -65,11 +65,6 @@
     <td>2024-04 — now</td>
   </tr>
   <tr>
-    <td>Data Scientist</td>
-    <td>Rapid Finance</td>
-    <td>2022-11 — 2024-04</td>
-  </tr>
-  <tr>
     <td>Data Analyst</td>
     <td>Cendyn</td>
     <td>2022-03 — 2022-11</td>
