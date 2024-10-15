@@ -70,7 +70,7 @@
     <td>2022-03 — 2023-04</td>
   </tr>
   <tr>
-    <td>Data Scientist</td>
+    <td>Data Analyst / Scientist</td>
     <td>SSI</td>
     <td>2019-01 — 2021-12</td>
   </tr>
