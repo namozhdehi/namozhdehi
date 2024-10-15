@@ -65,12 +65,12 @@
     <td>2024-02 — now</td>
   </tr>
   <tr>
-    <td>Data Analyst</td>
+    <td>Data Scientist</td>
     <td>Cendyn</td>
     <td>2022-03 — 2023-04</td>
   </tr>
   <tr>
-    <td>BI Developer</td>
+    <td>Data Scientist</td>
     <td>SSI</td>
     <td>2019-01 — 2021-12</td>
   </tr>
