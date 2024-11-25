@@ -37,6 +37,7 @@
   <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 1: Amazon Fine Food Reviews (NLP)</a></li>
   <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 2: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning) </a></li>
   <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 3: Pathrise (NLP)</a></li>
+  <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">Project 3: Ecommerce (Clustring)</a></li>
   <li><a href="https://github.com/namozhdehi/PowerBI">Project 4: PowerBI</a></li>
 </ul>
 
