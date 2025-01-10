@@ -18,7 +18,8 @@
 
 <h3>💎 Top skills</h3>
 <ul>
-  <li>Machine Learning & Deep Learning</li>
+  <li>Data Analytics</li>
+    <li>Machine Learning & Deep Learning</li>
   <li>Natural Language Processing (NLP)</li>
   <li>Generative AI</li>
 </ul>
