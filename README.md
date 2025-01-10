@@ -42,11 +42,10 @@
 </ul>
 
 <h2>📈 Certificates</h2>
-<ul>
-    <li><strong>Data Analytics with Tableau</strong> Salesforce (Dec 2024)</li>
+<ul>    
     <li><strong>Marketing Analytics</strong> Meta (Dec 2024)</li>
     <li><strong>IBM AI Engineering</strong> IBM (Dec 2024)</li>
-    <li><strong>Boot Camp</strong> @ Springboard (Nov 2024)</li>  
+    <li><strong>Data Analytics with Tableau</strong> Salesforce (Nov 2024)</li>
 </ul>
 
 <h2>🎓 Education</h2>
