@@ -48,11 +48,11 @@
 
 <h2>🎓 Education</h2>
 <ul>
-  <li><strong>Boot Camp</strong> @ Springboard (April 2024 - October 2024)</li>
+  <li><strong>Boot Camp</strong> @ Springboard (April 2024 - Nov 2024)</li>
   <li><strong>Master’s Degree</strong> @ University of Maryland Global Campus (2020 - now)</li>
   <li><strong>Master’s Degree</strong> @ Shiraz University (2005 - 2008)</li>
 </ul>
-
+<!--
 <h2>🧑‍💻 Experience</h2>
 <table>
   <tr>
@@ -76,7 +76,7 @@
     <td>2019-01 — 2021-12</td>
   </tr>
 </table>
-
+-->
 <h2>👩‍💻 Languages and Tools</h2>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
