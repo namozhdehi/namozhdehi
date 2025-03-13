@@ -94,8 +94,11 @@
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a>
-  <a href="https://www.oracle.com/" target="_blank"> 
+  <a href="https://www.tableau.com/" target="_blank"> 
     <img src="https://www.doyouevendata.com/wp-content/uploads/2018/02/tab.png" alt="Tableau" width="60" height="60"/>       
+  </a>
+    <a href="https://www.sas.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/SAS_Viya_logo.png" alt="Tableau" width="60" height="60"/>       
   </a>
 </p>
 
