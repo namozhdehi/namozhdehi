@@ -88,14 +88,14 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a>
+  <a href="https://www.oracle.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>       
+  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a>
   <a href="https://www.oracle.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>       
-  </a>
-  <a href="https://www.oracle.com/" target="_blank"> 
-    <img src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" alt="Tableau" width="60" height="60"/>       
+    <img src="https://www.doyouevendata.com/wp-content/uploads/2018/02/tab.png" alt="Tableau" width="60" height="60"/>       
   </a>
 </p>
 
