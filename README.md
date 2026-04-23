@@ -63,30 +63,49 @@
 
 <h2>👩‍💻 Languages and Tools</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SAS%20Viya-025E8C?style=for-the-badge&logoColor=white" alt="SAS Viya" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logoColor=white" alt="ArcGIS" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50"/>
+  </a>
 </p>
 
 <h2>📚 Libraries</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white" alt="GeoPandas" />
-  <img src="https://img.shields.io/badge/Shapely-5A3E85?style=for-the-badge&logoColor=white" alt="Shapely" />
-  <img src="https://img.shields.io/badge/GDAL-0A7B34?style=for-the-badge&logoColor=white" alt="GDAL" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://scipy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://geopandas.org/" target="_blank">
+    <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" width="50" height="50"/>
+  </a>
+  <a href="https://shapely.readthedocs.io/" target="_blank">
+    <img src="https://shapely.readthedocs.io/en/stable/_static/shapely-logo.png" width="50" height="50"/>
+  </a>
+  <a href="https://gdal.org/" target="_blank">
+    <img src="https://gdal.org/en/stable/_static/gdalicon.png" width="50" height="50"/>
+  </a>
 </p>
 
 <h2>📊 Stats</h2>
