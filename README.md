@@ -47,7 +47,10 @@
 
 <h2>📈 Certificates</h2>
 <ul>    
-    <li><strong>Marketing Analytics</strong> - Meta (Dec 2024)</li>
+    <li><strong>Advanced QGIS</strong> - QGIS.org (Apr 2026)</li>
+    <li><strong>FME Form Basic</strong> - FME (Apr 2026)</li>
+    <li><strong>Oracle Cloud Infrastructure Fondation</strong> - Oracle (Jan 2025)</li>
+    <li><strong>Geospatial Analysis with ArcGIS</strong> - FME (Apr 2026)</li>
     <li><strong>IBM AI Engineering</strong> - IBM (Dec 2024)</li>
     <li><strong>Data Analytics with Tableau</strong> - Salesforce (Nov 2024)</li>
 </ul>
