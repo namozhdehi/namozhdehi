@@ -36,14 +36,13 @@
 
 <h2>📈 Projects</h2>
 <ul>
-
-  <!-- ✅ NEW PROJECT ADDED HERE -->
   <li>
-    <strong>🌍 DC Smart Travel Planner (GIS Portfolio)</strong><br>
-    🔗 <a href="https://namozhdehi.github.io/DC-Smart-Travel-Planner/" target="_blank">Live Demo</a> |
-    💻 <a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner" target="_blank">GitHub Repo</a>
-    <br>
-    A geospatial travel planning system that generates day-by-day itineraries based on user preferences, optimized for proximity and minimal travel time.
+    <a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
+      Project 0: DC Smart Travel Planner (GIS Portfolio)
+    </a> |
+    <a href="https://namozhdehi.github.io/DC-Smart-Travel-Planner/">
+      Live Demo
+    </a>
   </li>
 
   <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 1: Amazon Fine Food Reviews (NLP)</a></li>
