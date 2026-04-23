@@ -63,24 +63,15 @@
 
 <h2>👩‍💻 Languages and Tools</h2>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.oracle.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>       
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank"> 
-    <img src="https://www.doyouevendata.com/wp-content/uploads/2018/02/tab.png" width="60" height="60"/>       
-  </a>
-  <a href="https://www.sas.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/SAS_Viya_logo.png" width="60" height="60"/>       
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/SAS%20Viya-025E8C?style=for-the-badge&logoColor=white" alt="SAS Viya" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logoColor=white" alt="ArcGIS" />
 </p>
 
 <h2>📚 Libraries</h2>
