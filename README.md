@@ -13,7 +13,9 @@
 
 <h2>:octocat: Nahid Mozhdehi</h2>
 <p>
-  Results-driven Data Scientist with extensive experience in Oracle, SQL, Python, and Python libraries such as Pandas, NumPy, and Scikit-learn. Demonstrated expertise in transforming complex data into actionable insights, optimizing business processes, and enhancing decision-making capabilities. Strong analytical and critical thinking skills with a proven track record of providing training and support to business users, ensuring effective utilization of data science tools.
+  GIS Analyst with 7+ years of experience building Python-based geospatial data pipelines and automating spatial data integration across complex GIS environments. Experienced in ArcGIS Pro, ArcGIS Online, QGIS, and PostGIS for handling multi-source datasets including CAD, KML, GPS, and raster data. Applied geospatial solutions across transportation, truck navigation, pipeline infrastructure, and property management, supporting routing analysis and spatial decision-making. Skilled in designing data interoperability workflows that eliminate manual data translation and improve operational efficiency. Strong background in QA/QC, spatial validation, and client-facing GIS delivery with measurable impact.
+<img width="468" height="124" alt="image" src="https://github.com/user-attachments/assets/f13dac96-3487-457e-83a5-a3064dedd4e9" />
+
 </p>
 
 <h3>💎 Top skills</h3>
