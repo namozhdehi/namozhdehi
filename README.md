@@ -8,7 +8,8 @@
 <body>
     
 <div align="center">
-  <img src="https://github.com/namozhdehi/Image/blob/main/GitHub.png?raw=true" alt="Data Science" width="600" height="350" >
+  #<img src="https://github.com/namozhdehi/Image/blob/main/GitHub.png?raw=true" alt="Data Science" width="600" height="350" >#
+    <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/DC_Travel_Planner_Map.png?raw=true" alt="Data Science" width="600" height="350" >
 </div>
 
 <h2>:octocat: Nahid Mozhdehi</h2>
