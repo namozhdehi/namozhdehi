@@ -57,9 +57,9 @@
 
 <h2>🎓 Education</h2>
 <ul>
-  <li><strong>Master of GIS Management</strong> @ Salisbury University (2027)</li>
-  <li><strong>Data Science Fellow</strong> @ Springboard (2024)</li>
-  <li><strong>Master’s Degree</strong> @ Shiraz University (2008)</li>
+  <li><strong>Master of GIS Management</strong> - Salisbury University (2027)</li>
+  <li><strong>Data Science Fellow</strong> - Springboard (2024)</li>
+  <li><strong>Master’s Degree</strong> - Shiraz University (2008)</li>
 </ul>
 
 <h2>👩‍💻 Languages and Tools</h2>
