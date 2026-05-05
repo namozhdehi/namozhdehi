@@ -38,12 +38,12 @@
 <h2>📈 Projects</h2>
 <ul>
   <li><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">Project 1: DC Smart Travel Planner (GIS Portfolio)</a></li>
-  <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 1: Mapping the Unseen City DC (GIS Portfolio)</a></li>
-  <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 2: Amazon Fine Food Reviews (NLP)</a></li>
-  <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 3: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning)</a></li>
-  <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 4: Pathrise (NLP)</a></li>
-  <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">Project 5: Ecommerce (Clustring)</a></li>
-  <li><a href="https://github.com/namozhdehi/PowerBI">Project 6: PowerBI</a></li>
+  <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 2: Mapping the Unseen City DC (GIS Portfolio)</a></li>
+  <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 3: Amazon Fine Food Reviews (NLP)</a></li>
+  <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 4: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning)</a></li>
+  <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 5: Pathrise (NLP)</a></li>
+  <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">Project 6: Ecommerce (Clustring)</a></li>
+  <li><a href="https://github.com/namozhdehi/PowerBI">Project 7: PowerBI</a></li>
 </ul>
 
 <h2>📈 Certificates</h2>
