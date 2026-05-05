@@ -38,7 +38,7 @@
 <h2>📈 Projects</h2>
 <ul>
   <li><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">Project 1: DC Smart Travel Planner (QGIS)</a></li>
-  <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 2: Mapping the Unseen City DC (QGIS Model and Python)</a></li>
+  <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 2: Mapping the Unseen City DC (QGIS Model, Python and LiDAR data)</a></li>
   <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 3: Amazon Fine Food Reviews (NLP)</a></li>
   <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 4: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning)</a></li>
   <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 5: Pathrise (NLP)</a></li>
