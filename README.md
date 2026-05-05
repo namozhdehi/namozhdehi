@@ -43,7 +43,7 @@
   <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 4: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning)</a></li>
   <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 5: Pathrise (NLP)</a></li>
   <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">Project 6: Ecommerce (Clustring)</a></li>
-  <li><a href="https://github.com/namozhdehi/PowerBI">Project 7: PowerBI</a></li>
+  <li><a href="https://github.com/namozhdehi/PowerBI">Project 7: Vancouver Police Department Dashboard (Power BI Project)</a></li>
 </ul>
 
 <h2>📈 Certificates</h2>
