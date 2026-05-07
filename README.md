@@ -14,7 +14,7 @@
 
 <h2>:octocat: Nahid Mozhdehi</h2>
 <p>
-  GIS Analyst with 7+ years of experience building Python-based geospatial data pipelines and automating spatial data integration across complex GIS environments. Experienced in ArcGIS Pro, ArcGIS Online, QGIS, and PostGIS for handling multi-source datasets including CAD, KML, GPS, and raster data. Applied geospatial solutions across transportation, truck navigation, pipeline infrastructure, and property management, supporting routing analysis and spatial decision-making. Skilled in designing data interoperability workflows that eliminate manual data translation and improve operational efficiency. Strong background in QA/QC, spatial validation, and client-facing GIS delivery with measurable impact.
+  GIS Analyst / Geospatial Engineer with 7+ years of experience building Python-based geospatial data pipelines, automating spatial data integration, and developing scalable GIS solutions across enterprise environments. Experienced in ArcGIS Pro, ArcGIS Online, QGIS, PostGIS, and FME for managing multi-source spatial datasets including CAD, KML, GPS, LiDAR, DEM, and raster data. Skilled in Python geospatial automation using GeoPandas, GDAL, and Rasterio, with experience supporting transportation, utility, pipeline, and routing analysis workflows. Experienced in AWS-based GIS workflows using Lambda, S3, and Step Functions to streamline spatial processing and operational decision-making. Strong background in network analysis, QA/QC, spatial validation, and client-facing GIS delivery.
 </p>
 
 <h3>💎 Top skills</h3>
