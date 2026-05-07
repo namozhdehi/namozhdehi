@@ -37,14 +37,15 @@
 
 <h2>📈 Projects</h2>
 <ul>
-  <li><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">Project 1: DC Smart Travel Planner (QGIS)</a></li>
-  <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 2: Mapping the Unseen City DC (QGIS Model, Python and LiDAR data)</a></li>
-  <li><a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">Project 3: EV Charging Gap Analyzer (Python and LiDAR data)</a></li>
-  <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 4: Amazon Fine Food Reviews (NLP)</a></li>
-  <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 5: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning)</a></li>
-  <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 6: Pathrise (NLP)</a></li>
-  <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">Project 7: Ecommerce (Clustring)</a></li>
-  <li><a href="https://github.com/namozhdehi/PowerBI">Project 8: Vancouver Police Department Dashboard (Power BI Project)</a></li>
+  <li><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">Project 1: Utility Emergency Response Routing & Service Coverage Analysis (QGIS, Python, PostGIS, Leaflet)</a></li>
+  <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 2: Mapping the Unseen City DC (QGIS Model Builder, Python and LiDAR data, DEM/Slope Analysis)</a></li>
+  <li><a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">Project 3: EV Charging Gap Analyzer (Python, LiDAR data)</a></li>
+  <li><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">Project 4: DC Smart Travel Planner (QGIS, Python, Leaflet)</a></li> 
+  <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Project 5: Amazon Fine Food Reviews (NLP)</a></li>
+  <li><a href="https://github.com/namozhdehi/Pneumonia-">Project 6: Pneumonia Detection Using PyTorch, TensorFlow, and Keras (Deep Learning)</a></li>
+  <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Project 7: Pathrise (NLP)</a></li>
+  <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">Project 8: Ecommerce (Clustring)</a></li>
+  <li><a href="https://github.com/namozhdehi/PowerBI">Project 9: Vancouver Police Department Dashboard (Power BI Project)</a></li>
 </ul>
 
 <h2>📈 Certificates</h2>
