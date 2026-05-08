@@ -37,7 +37,7 @@
 
 <h2>📈 Projects</h2>
 <ul>
-  <li><a https://github.com/namozhdehi/utility-emergency-response-routing-analysis">Project 1: Utility Emergency Response Routing & Service Coverage Analysis (QGIS, Python, PostGIS, Leaflet)</a></li>
+  <li><a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">Project 1: Utility Emergency Response Routing & Service Coverage Analysis (QGIS, Python, PostGIS, Leaflet)</a></li>
   <li><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">Project 2: Mapping the Unseen City DC (QGIS Model Builder, Python and LiDAR data, DEM/Slope Analysis)</a></li>
   <li><a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">Project 3: EV Charging Gap Analyzer (Python, LiDAR data)</a></li>
   <li><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">Project 4: DC Smart Travel Planner (QGIS, Python, Leaflet)</a></li> 
