@@ -2,6 +2,18 @@
     <h1>👋 Hi, I'm Nahid Mozhdehi</h1>
     <h3>🗺️ GIS Analyst | 🌍 Geospatial Engineer | 📊 Data Scientist</h3>
     <p><em>Turning spatial data into actionable insights</em></p>
+    
+    <p align="center">
+      <a href="https://www.linkedin.com/in/nahidmozhdehi">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="mailto:namojdehi@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+      <a href="https://github.com/namozhdehi">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </p>
 </div>
 
 <br>
@@ -60,22 +72,6 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nahidmozhdehi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:namojdehi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/namozhdehi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -83,14 +79,18 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
     <td width="50%" valign="top">
       <h3 align="center">🚨 Utility Emergency Response Routing</h3>
       <div align="center">
+        <a href="https://namozhdehi.github.io/utility-emergency-response-routing-analysis/">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-2ea44f?style=for-the-badge" alt="View Demo">
+        </a>
         <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
-          <img src="https://img.shields.io/badge/View_Live_Demo-2ea44f?style=for-the-badge" alt="View Demo">
+          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
         </a>
         <p><strong>Tech Stack:</strong></p>
         <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
+        <img src="https://img.shields.io/badge/OSRM-E34F26?style=flat-square">
         <p><em>Interactive GIS web app with real-time OSRM routing, severity classification, and DC boundary validation.</em></p>
       </div>
     </td>
@@ -144,29 +144,29 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
   
   <table>
     <tr>
-      <td>🔍</td>
-      <td><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews"><strong>Amazon Fine Food Reviews</strong></a></td>
-      <td>Natural Language Processing (NLP)</td>
+      <td width="5%">🔍</td>
+      <td width="45%"><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews"><strong>Amazon Fine Food Reviews</strong></a></td>
+      <td width="50%"><em>Natural Language Processing (NLP)</em></td>
     </tr>
     <tr>
       <td>🩺</td>
       <td><a href="https://github.com/namozhdehi/Pneumonia-"><strong>Pneumonia Detection</strong></a></td>
-      <td>Deep Learning (PyTorch, TensorFlow, Keras)</td>
+      <td><em>Deep Learning (PyTorch, TensorFlow, Keras)</em></td>
     </tr>
     <tr>
       <td>📝</td>
       <td><a href="https://github.com/namozhdehi/Pathrise/tree/main"><strong>Pathrise</strong></a></td>
-      <td>Natural Language Processing</td>
+      <td><em>Natural Language Processing</em></td>
     </tr>
     <tr>
       <td>🛒</td>
       <td><a href="https://github.com/namozhdehi/Ecommerce_Clustring"><strong>E-commerce Clustering</strong></a></td>
-      <td>Machine Learning (Clustering)</td>
+      <td><em>Machine Learning (Clustering)</em></td>
     </tr>
     <tr>
       <td>📊</td>
       <td><a href="https://github.com/namozhdehi/PowerBI"><strong>Vancouver Police Dashboard</strong></a></td>
-      <td>Power BI / Data Visualization</td>
+      <td><em>Power BI / Data Visualization</em></td>
     </tr>
   </table>
   
@@ -178,34 +178,34 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
   <tr>
-    <td><strong>Advanced QGIS</strong></td>
-    <td>QGIS.org</td>
-    <td align="right"><em>(May 2026)</em></td>
+    <td width="50%"><strong>Advanced QGIS</strong></td>
+    <td width="25%">QGIS.org</td>
+    <td width="25%" align="right"><em>May 2026</em></td>
   </tr>
   <tr>
     <td><strong>FME Form Basic</strong></td>
     <td>FME</td>
-    <td align="right"><em>(Apr 2026)</em></td>
+    <td align="right"><em>Apr 2026</em></td>
   </tr>
   <tr>
     <td><strong>Oracle Cloud Infrastructure Foundation</strong></td>
     <td>Oracle</td>
-    <td align="right"><em>(Jan 2025)</em></td>
+    <td align="right"><em>Jan 2025</em></td>
   </tr>
   <tr>
     <td><strong>Geospatial Analysis with ArcGIS</strong></td>
     <td>FME</td>
-    <td align="right"><em>(Apr 2026)</em></td>
+    <td align="right"><em>Apr 2026</em></td>
   </tr>
   <tr>
     <td><strong>IBM AI Engineering</strong></td>
     <td>IBM</td>
-    <td align="right"><em>(Dec 2024)</em></td>
+    <td align="right"><em>Dec 2024</em></td>
   </tr>
   <tr>
     <td><strong>Data Analytics with Tableau</strong></td>
     <td>Salesforce</td>
-    <td align="right"><em>(Nov 2024)</em></td>
+    <td align="right"><em>Nov 2024</em></td>
   </tr>
 </table>
 
@@ -215,10 +215,10 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
   <tr>
-    <td>🎓</td>
-    <td><strong>Master of GIS Management</strong></td>
-    <td>Salisbury University</td>
-    <td align="right"><em>2027</em></td>
+    <td width="5%">🎓</td>
+    <td width="40%"><strong>Master of GIS Management</strong></td>
+    <td width="35%">Salisbury University</td>
+    <td width="20%" align="right"><em>2027</em></td>
   </tr>
   <tr>
     <td>💡</td>
@@ -262,6 +262,11 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <div align="center">
   
   ### 📊 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=namozhdehi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namozhdehi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170">
+  
+  <br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
   
