@@ -269,19 +269,21 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 ---
 
 <div align="center">
-  
-### 📊 GitHub Stats
-  
-<br>
-  
+
+### 📊 GitHub Activity
+
+<img src="https://img.shields.io/badge/Contributions%20Last%20Year-257-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="257 contributions in the last year">
+
+<br><br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
-  
+
 ---
-  
+
 <em>💡 "The best way to predict the future is to map it."</em>
-  
+
 **⭐ If you find my work interesting, consider giving a star to my projects!**
-  
+
 <sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
-  
+
 </div>
