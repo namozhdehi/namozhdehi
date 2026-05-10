@@ -178,34 +178,40 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
-      <br><strong>Advanced QGIS</strong> - QGIS.org <em>(May 2026)</em>
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/FME-0066CC?style=for-the-badge">
-      <br><strong>FME Form Basic</strong> - FME <em>(Apr 2026)</em>
-    </td>
+    <td>🎖️</td>
+    <td><strong>Advanced QGIS</strong></td>
+    <td>QGIS.org</td>
+    <td align="right"><em>(May 2026)</em></td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-      <br><strong>Oracle Cloud Infrastructure Foundation</strong> - Oracle <em>(Jan 2025)</em>
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge">
-      <br><strong>Geospatial Analysis with ArcGIS</strong> - FME <em>(Apr 2026)</em>
-    </td>
+    <td>🎖️</td>
+    <td><strong>FME Form Basic</strong></td>
+    <td>FME</td>
+    <td align="right"><em>(Apr 2026)</em></td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/IBM-0530AD?style=for-the-badge&logo=ibm&logoColor=white">
-      <br><strong>IBM AI Engineering</strong> - IBM <em>(Dec 2024)</em>
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-      <br><strong>Data Analytics with Tableau</strong> - Salesforce <em>(Nov 2024)</em>
-    </td>
+    <td>🎖️</td>
+    <td><strong>Oracle Cloud Infrastructure Foundation</strong></td>
+    <td>Oracle</td>
+    <td align="right"><em>(Jan 2025)</em></td>
+  </tr>
+  <tr>
+    <td>🎖️</td>
+    <td><strong>Geospatial Analysis with ArcGIS</strong></td>
+    <td>FME</td>
+    <td align="right"><em>(Apr 2026)</em></td>
+  </tr>
+  <tr>
+    <td>🎖️</td>
+    <td><strong>IBM AI Engineering</strong></td>
+    <td>IBM</td>
+    <td align="right"><em>(Dec 2024)</em></td>
+  </tr>
+  <tr>
+    <td>🎖️</td>
+    <td><strong>Data Analytics with Tableau</strong></td>
+    <td>Salesforce</td>
+    <td align="right"><em>(Nov 2024)</em></td>
   </tr>
 </table>
 
@@ -238,39 +244,23 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ## 🛠️ Technical Stack
 
-### Languages & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logoColor=white" alt="ArcGIS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-### GIS & Spatial Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
-  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/FME-0066CC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white">
-</p>
-
-### Data Science & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</p>
-
-### Visualization & BI
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
 ---
