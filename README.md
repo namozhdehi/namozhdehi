@@ -154,40 +154,14 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ---
 
-## 🏆 Certifications
-
-<table>
-<tr>
-<td width="50%"><strong>Advanced QGIS</strong></td>
-<td width="25%">QGIS.org</td>
-<td width="25%" align="right"><em>May 2026</em></td>
-</tr>
-<tr>
-<td><strong>FME Form Basic</strong></td>
-<td>FME</td>
-<td align="right"><em>Apr 2026</em></td>
-</tr>
-<tr>
-<td><strong>Oracle Cloud Infrastructure Foundation</strong></td>
-<td>Oracle</td>
-<td align="right"><em>Jan 2025</em></td>
-</tr>
-<tr>
-<td><strong>Geospatial Analysis with ArcGIS</strong></td>
-<td>FME</td>
-<td align="right"><em>Apr 2026</em></td>
-</tr>
-<tr>
-<td><strong>IBM AI Engineering</strong></td>
-<td>IBM</td>
-<td align="right"><em>Dec 2024</em></td>
-</tr>
-<tr>
-<td><strong>Data Analytics with Tableau</strong></td>
-<td>Salesforce</td>
-<td align="right"><em>Nov 2024</em></td>
-</tr>
-</table>
+<h2>🏆 Certifications</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_QGIS-QGIS.org-589632?style=flat-square" alt="QGIS">
+  <img src="https://img.shields.io/badge/FME_Form_Basic-FME-0066CC?style=flat-square" alt="FME">
+  <img src="https://img.shields.io/badge/Oracle_Cloud-Oracle-F80000?style=flat-square" alt="Oracle">
+  <img src="https://img.shields.io/badge/IBM_AI_Engineering-IBM-0530AD?style=flat-square" alt="IBM">
+  <img src="https://img.shields.io/badge/Tableau-Salesforce-E97627?style=flat-square" alt="Tableau">
+</p>
 
 ---
 
