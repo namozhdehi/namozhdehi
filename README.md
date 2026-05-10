@@ -126,16 +126,6 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
   </ul>
 </details>
 
-
-
-
-
-
----
-
-<details>
-<summary><h3>📚 More Projects</h3></summary>
-
 <table>
 <tr>
 <td width="5%">🔍</td>
