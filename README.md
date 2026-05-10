@@ -1,37 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-    
 <div align="center">
-    <h1>👋 Welcome to My GitHub Portfolio</h1>
-    <p><em>GIS Analysis | Geospatial Engineering | Data Science</em></p>
-</div>
-
-<div align="center">
-    <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/outputs/dc_top_attractions_map.png?raw=true" alt="GIS Portfolio" width="900" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h1>👋 Hi, I'm Nahid Mozhdehi</h1>
+    <h3>🗺️ GIS Analyst | 🌍 Geospatial Engineer | 📊 Data Scientist</h3>
+    <p><em>Turning spatial data into actionable insights</em></p>
 </div>
 
 <br>
 
-<h2>🎯 About Me</h2>
-<p>
-  <strong>GIS Analyst / Geospatial Engineer</strong> with expertise in building Python-based geospatial data pipelines, automating spatial data integration, and developing scalable GIS solutions across enterprise environments. Skilled in <strong>ArcGIS Pro, QGIS, PostGIS, and FME</strong> for managing multi-source spatial datasets including CAD, KML, GPS, LiDAR, DEM, and raster data. 
-</p>
-<p>
-  Experienced in Python geospatial automation using <strong>GeoPandas, GDAL, and Rasterio</strong>, with hands-on work in transportation, utility, pipeline, routing, and smart-city GIS workflows. Proficient in AWS-based GIS workflows using Lambda, S3, and Step Functions to streamline spatial processing and operational decision-making.
-</p>
+<div align="center">
+    <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/outputs/dc_top_attractions_map.png?raw=true" alt="GIS Portfolio" width="100%" max-width="1000px">
+</div>
 
-<h2>💎 Core Competencies</h2>
-<ul>
-  <li>🗺️ <strong>GIS Analysis</strong> - Network analysis, spatial validation, QA/QC workflows</li>
-  <li>📊 <strong>Data Analytics</strong> - Python, SQL, spatial data pipelines</li>
-  <li>🤖 <strong>Machine Learning & Deep Learning</strong> - Predictive modeling, computer vision</li>
-  <li>📝 <strong>Natural Language Processing (NLP)</strong> - Text classification, sentiment analysis</li>
-  <li>✨ <strong>Generative AI</strong> - LLMs, prompt engineering</li>
-</ul>
+<br>
 
-<h2>🌍 Connect With Me</h2>
+---
+
+## 👨‍💻 About Me
+
+I'm a **GIS Analyst and Geospatial Engineer** specializing in:
+
+- 🛰️ Building **Python-based geospatial data pipelines** for enterprise environments
+- 🗺️ Automating spatial data integration with **ArcGIS Pro, QGIS, PostGIS, and FME**
+- 🌐 Managing multi-source datasets: **CAD, KML, GPS, LiDAR, DEM, raster data**
+- 🚀 Developing **AWS-based GIS workflows** (Lambda, S3, Step Functions)
+- 🛣️ Creating **transportation, utility, pipeline, and smart-city GIS solutions**
+
+---
+
+## 💎 Core Competencies
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/geographical-map.png" width="60px"><br>
+      <strong>GIS Analysis</strong><br>
+      <sub>Network analysis, spatial validation, QA/QC</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px"><br>
+      <strong>Data Analytics</strong><br>
+      <sub>Python, SQL, spatial pipelines</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"><br>
+      <strong>Machine Learning</strong><br>
+      <sub>Predictive modeling, computer vision</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/chat.png" width="60px"><br>
+      <strong>NLP</strong><br>
+      <sub>Text classification, sentiment analysis</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/brain.png" width="60px"><br>
+      <strong>Generative AI</strong><br>
+      <sub>LLMs, prompt engineering</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nahidmozhdehi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -39,127 +69,224 @@
   <a href="mailto:namojdehi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/namozhdehi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-<h2>📂 Featured Projects</h2>
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🚨 Utility Emergency Response Routing</h3>
-      <p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM</p>
-      <p>Interactive GIS web app with real-time routing, severity classification, and DC boundary validation.</p>
-      <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🚨 Utility Emergency Response Routing</h3>
+      <div align="center">
+        <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
+          <img src="https://img.shields.io/badge/View_Live_Demo-2ea44f?style=for-the-badge" alt="View Demo">
+        </a>
+        <p><strong>Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
+        <p><em>Interactive GIS web app with real-time OSRM routing, severity classification, and DC boundary validation.</em></p>
+      </div>
     </td>
-    <td width="50%">
-      <h3>🏙️ Mapping the Unseen City DC</h3>
-      <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
-      <p>Advanced terrain analysis using LiDAR data for urban planning insights.</p>
-      <a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ Mapping the Unseen City DC</h3>
+      <div align="center">
+        <a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+        </a>
+        <p><strong>Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/LiDAR-00599C?style=flat-square">
+        <img src="https://img.shields.io/badge/DEM-8B4513?style=flat-square">
+        <p><em>Advanced terrain analysis using LiDAR data for urban planning insights and DEM/slope analysis.</em></p>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>⚡ EV Charging Gap Analyzer</h3>
-      <p><strong>Tech:</strong> Python, LiDAR, Spatial Analysis</p>
-      <p>Identifying EV infrastructure gaps using geospatial data analysis.</p>
-      <a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ EV Charging Gap Analyzer</h3>
+      <div align="center">
+        <a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+        </a>
+        <p><strong>Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/LiDAR-00599C?style=flat-square">
+        <img src="https://img.shields.io/badge/Spatial_Analysis-FF6B6B?style=flat-square">
+        <p><em>Identifying EV infrastructure gaps using geospatial data analysis and accessibility modeling.</em></p>
+      </div>
     </td>
-    <td width="50%">
-      <h3>🗺️ DC Smart Travel Planner</h3>
-      <p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
-      <p>Interactive travel planning tool with route optimization.</p>
-      <a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ DC Smart Travel Planner</h3>
+      <div align="center">
+        <a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+        </a>
+        <p><strong>Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
+        <p><em>Interactive travel planning tool with route optimization and attraction recommendations.</em></p>
+      </div>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><strong>📚 More Projects</strong></summary>
-  <ul>
-    <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Amazon Fine Food Reviews (NLP)</a></li>
-    <li><a href="https://github.com/namozhdehi/Pneumonia-">Pneumonia Detection Using PyTorch, TensorFlow, Keras (Deep Learning)</a></li>
-    <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Pathrise (NLP)</a></li>
-    <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">E-commerce Clustering Analysis</a></li>
-    <li><a href="https://github.com/namozhdehi/PowerBI">Vancouver Police Department Dashboard (Power BI)</a></li>
-  </ul>
+  <summary><h3>📚 More Projects (Click to expand)</h3></summary>
+  
+  <table>
+    <tr>
+      <td>🔍</td>
+      <td><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews"><strong>Amazon Fine Food Reviews</strong></a></td>
+      <td>Natural Language Processing (NLP)</td>
+    </tr>
+    <tr>
+      <td>🩺</td>
+      <td><a href="https://github.com/namozhdehi/Pneumonia-"><strong>Pneumonia Detection</strong></a></td>
+      <td>Deep Learning (PyTorch, TensorFlow, Keras)</td>
+    </tr>
+    <tr>
+      <td>📝</td>
+      <td><a href="https://github.com/namozhdehi/Pathrise/tree/main"><strong>Pathrise</strong></a></td>
+      <td>Natural Language Processing</td>
+    </tr>
+    <tr>
+      <td>🛒</td>
+      <td><a href="https://github.com/namozhdehi/Ecommerce_Clustring"><strong>E-commerce Clustering</strong></a></td>
+      <td>Machine Learning (Clustering)</td>
+    </tr>
+    <tr>
+      <td>📊</td>
+      <td><a href="https://github.com/namozhdehi/PowerBI"><strong>Vancouver Police Dashboard</strong></a></td>
+      <td>Power BI / Data Visualization</td>
+    </tr>
+  </table>
+  
 </details>
 
-<h2>🏆 Certifications</h2>
-<ul>
-  <li>
-    <strong>Advanced QGIS</strong> - QGIS.org <em>(May 2026)</em>
-    <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" height="18">
-  </li>
-  <li>
-    <strong>FME Form Basic</strong> - FME <em>(Apr 2026)</em>
-    <img src="https://img.shields.io/badge/FME-0066CC?style=flat-square" alt="FME" height="18">
-  </li>
-  <li>
-    <strong>Oracle Cloud Infrastructure Foundation</strong> - Oracle <em>(Jan 2025)</em>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="18">
-  </li>
-  <li>
-    <strong>Geospatial Analysis with ArcGIS</strong> - FME <em>(Apr 2026)</em>
-    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS" height="18">
-  </li>
-  <li>
-    <strong>IBM AI Engineering</strong> - IBM <em>(Dec 2024)</em>
-    <img src="https://img.shields.io/badge/IBM-0530AD?style=flat-square&logo=ibm&logoColor=white" alt="IBM" height="18">
-  </li>
-  <li>
-    <strong>Data Analytics with Tableau</strong> - Salesforce <em>(Nov 2024)</em>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="18">
-  </li>
-</ul>
+---
 
-<h2>🎓 Education</h2>
-<ul>
-  <li>🎓 <strong>Master of GIS Management</strong> - Salisbury University (2027)</li>
-  <li>💡 <strong>Data Science Fellow</strong> - Springboard (2024)</li>
-  <li>🎓 <strong>Master's Degree</strong> - Shiraz University (2008)</li>
-</ul>
+## 🏆 Certifications
 
-<h2>🛠️ Technical Stack</h2>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+      <br><strong>Advanced QGIS</strong> - QGIS.org <em>(May 2026)</em>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/FME-0066CC?style=for-the-badge">
+      <br><strong>FME Form Basic</strong> - FME <em>(Apr 2026)</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <br><strong>Oracle Cloud Infrastructure Foundation</strong> - Oracle <em>(Jan 2025)</em>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge">
+      <br><strong>Geospatial Analysis with ArcGIS</strong> - FME <em>(Apr 2026)</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/IBM-0530AD?style=for-the-badge&logo=ibm&logoColor=white">
+      <br><strong>IBM AI Engineering</strong> - IBM <em>(Dec 2024)</em>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+      <br><strong>Data Analytics with Tableau</strong> - Salesforce <em>(Nov 2024)</em>
+    </td>
+  </tr>
+</table>
 
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Master of GIS Management</strong></td>
+    <td>Salisbury University</td>
+    <td align="right"><em>2027</em></td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td><strong>Data Science Fellow</strong></td>
+    <td>Springboard</td>
+    <td align="right"><em>2024</em></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Master's Degree</strong></td>
+    <td>Shiraz University</td>
+    <td align="right"><em>2008</em></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logoColor=white" alt="ArcGIS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
+### GIS & Spatial Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white" alt="GeoPandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/FME-0066CC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white">
 </p>
 
-<br>
+### Data Science & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</p>
+
+### Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+</p>
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namozhdehi&color=green&style=flat-square" alt="Profile Views">
+  
+  ### 📊 GitHub Stats
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
+  
+  ---
+  
+  <em>💡 "The best way to predict the future is to map it." </em>
+  
+  **⭐ If you find my work interesting, consider giving a star to my projects!**
+  
+  <sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
+  
 </div>
-
-<br>
-
-<div align="center">
-  <em>⭐ Feel free to explore my repositories and reach out for collaboration opportunities!</em>
-</div>
-
-</body>
-</html>
