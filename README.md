@@ -44,62 +44,27 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
 <tr>
+<td align="center" width="20%"><img src="https://img.icons8.com/color/96/worldwide-location.png" width="64px"></td>
+<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px"></td>
+<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"></td>
+<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/chat.png" width="60px"></td>
+<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/brain.png" width="60px"></td>
+</tr>
 
-<td align="center" width="20%">
+<tr>
+<td align="center"><strong>GIS Analysis</strong></td>
+<td align="center"><strong>Data Analytics</strong></td>
+<td align="center"><strong>Machine Learning</strong></td>
+<td align="center"><strong>NLP</strong></td>
+<td align="center"><strong>Generative AI</strong></td>
+</tr>
 
-<div style="height:80px;">
-<img src="https://img.icons8.com/color/96/worldwide-location.png" width="64px">
-</div>
-
-<strong>GIS Analysis</strong><br>
-<sub>Network analysis, spatial validation, QA/QC</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<div style="height:80px;">
-<img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px">
-</div>
-
-<strong>Data Analytics</strong><br>
-<sub>Python, SQL, spatial pipelines</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<div style="height:80px;">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px">
-</div>
-
-<strong>Machine Learning</strong><br>
-<sub>Predictive modeling, computer vision</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<div style="height:80px;">
-<img src="https://img.icons8.com/color/96/000000/chat.png" width="60px">
-</div>
-
-<strong>NLP</strong><br>
-<sub>Text classification, sentiment analysis</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<div style="height:80px;">
-<img src="https://img.icons8.com/color/96/000000/brain.png" width="60px">
-</div>
-
-<strong>Generative AI</strong><br>
-<sub>LLMs, prompt engineering</sub>
-
-</td>
-
+<tr>
+<td align="center"><sub>Network analysis, spatial validation, QA/QC</sub></td>
+<td align="center"><sub>Python, SQL, spatial pipelines</sub></td>
+<td align="center"><sub>Predictive modeling, computer vision</sub></td>
+<td align="center"><sub>Text classification, sentiment analysis</sub></td>
+<td align="center"><sub>LLMs, prompt engineering</sub></td>
 </tr>
 </table>
 
