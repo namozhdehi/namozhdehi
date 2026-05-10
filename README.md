@@ -183,31 +183,26 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
     <td align="right"><em>(May 2026)</em></td>
   </tr>
   <tr>
-    
     <td><strong>FME Form Basic</strong></td>
     <td>FME</td>
     <td align="right"><em>(Apr 2026)</em></td>
   </tr>
   <tr>
-    
     <td><strong>Oracle Cloud Infrastructure Foundation</strong></td>
     <td>Oracle</td>
     <td align="right"><em>(Jan 2025)</em></td>
   </tr>
   <tr>
-   
     <td><strong>Geospatial Analysis with ArcGIS</strong></td>
     <td>FME</td>
     <td align="right"><em>(Apr 2026)</em></td>
   </tr>
   <tr>
-    
     <td><strong>IBM AI Engineering</strong></td>
     <td>IBM</td>
     <td align="right"><em>(Dec 2024)</em></td>
   </tr>
   <tr>
-    
     <td><strong>Data Analytics with Tableau</strong></td>
     <td>Salesforce</td>
     <td align="right"><em>(Nov 2024)</em></td>
