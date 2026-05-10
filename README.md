@@ -339,32 +339,24 @@ for Washington, DC.
 </p>
 
 ---
----
 
 <div align="center">
   
-### 📊 GitHub Stats
+  ### 📊 GitHub Stats
   
-<img src="https://github-readme-stats.vercel.app/api?username=namozhdehi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namozhdehi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=namozhdehi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namozhdehi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170">
   
-<br>
+  <br>
   
-![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
   
----
+  ---
   
-<em>💡 "The best way to predict the future is to map it."</em>
+  <em>💡 "The best way to predict the future is to map it." </em>
   
-**⭐ If you find my work interesting, consider giving a star to my projects!**
+  **⭐ If you find my work interesting, consider giving a star to my projects!**
   
-<sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
+  <sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
   
-</div>
-<em>💡 "The best way to predict the future is to map it."</em>
-
-**⭐ If you find my work interesting, consider giving a star to my projects!**
-
-<sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
-
 </div>
