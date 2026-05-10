@@ -77,42 +77,45 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <h2>📂 Featured Projects</h2>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🚨 Utility Emergency Response Routing</h3>
-      <p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM</p>
-      <p>Interactive GIS web app with real-time routing, severity classification, and DC boundary validation.</p>
-      <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🏙️ Mapping the Unseen City DC</h3>
-      <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
-      <p>Advanced terrain analysis using LiDAR data for urban planning insights.</p>
-      <a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ EV Charging Gap Analyzer</h3>
-      <p><strong>Tech:</strong> Python, LiDAR, Spatial Analysis</p>
-      <p>Identifying EV infrastructure gaps using geospatial data analysis.</p>
-      <a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🗺️ DC Smart Travel Planner</h3>
-      <p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
-      <p>Interactive travel planning tool with route optimization.</p>
-      <a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<h3>🚨 Utility Emergency Response Routing</h3>
+<p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM</p>
+<p>Interactive GIS web app with real-time routing, severity classification, and DC boundary validation.</p>
+<a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+</a>
+</td>
+
+<td width="50%">
+<h3>🏙️ Mapping the Unseen City DC</h3>
+<p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
+<p>Advanced terrain analysis using LiDAR data for urban planning insights.</p>
+<a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>⚡ EV Charging Gap Analyzer</h3>
+<p><strong>Tech:</strong> Python, LiDAR, Spatial Analysis</p>
+<p>Identifying EV infrastructure gaps using geospatial data analysis.</p>
+<a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+</a>
+</td>
+
+<td width="50%">
+<h3>🗺️ DC Smart Travel Planner</h3>
+<p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
+<p>Interactive travel planning tool with route optimization.</p>
+<a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+</a>
+</td>
+</tr>
 </table>
 
 <details>
@@ -122,62 +125,59 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
 <tr>
-<td width="5%">🔍</td>
-<td width="45%">
+<td width="50%" valign="top">
+<h3>🔍 Amazon Fine Food Reviews</h3>
+<p><strong>Focus:</strong> Natural Language Processing</p>
+<p>Text analysis project focused on review classification, sentiment patterns, and NLP-based insight extraction.</p>
 <a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">
-<strong>Amazon Fine Food Reviews</strong>
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
-<td width="50%">
-<em>Natural Language Processing</em>
-</td>
-</tr>
 
-<tr>
-<td>🩺</td>
-<td>
+<td width="50%" valign="top">
+<h3>🩺 Pneumonia Detection</h3>
+<p><strong>Focus:</strong> Deep Learning</p>
+<p>Medical image classification project using PyTorch, TensorFlow, and Keras for pneumonia detection.</p>
 <a href="https://github.com/namozhdehi/Pneumonia-">
-<strong>Pneumonia Detection</strong>
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
-</td>
-<td>
-<em>Deep Learning with PyTorch, TensorFlow, and Keras</em>
 </td>
 </tr>
 
 <tr>
-<td>📝</td>
-<td>
+<td width="50%" valign="top">
+<h3>📝 Pathrise</h3>
+<p><strong>Focus:</strong> Natural Language Processing</p>
+<p>NLP project applying text processing and machine learning techniques to analyze career-related data.</p>
 <a href="https://github.com/namozhdehi/Pathrise/tree/main">
-<strong>Pathrise</strong>
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
-<td>
-<em>Natural Language Processing</em>
-</td>
-</tr>
 
-<tr>
-<td>🛒</td>
-<td>
+<td width="50%" valign="top">
+<h3>🛒 E-commerce Clustering</h3>
+<p><strong>Focus:</strong> Machine Learning</p>
+<p>Customer and product clustering analysis using unsupervised learning to identify meaningful behavioral groups.</p>
 <a href="https://github.com/namozhdehi/Ecommerce_Clustring">
-<strong>E-commerce Clustering</strong>
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
-</td>
-<td>
-<em>Machine Learning and clustering</em>
 </td>
 </tr>
 
 <tr>
-<td>📊</td>
-<td>
+<td width="50%" valign="top">
+<h3>📊 Vancouver Police Dashboard</h3>
+<p><strong>Focus:</strong> Power BI and Data Visualization</p>
+<p>Interactive dashboard project for analyzing police-related data and communicating trends through visual analytics.</p>
 <a href="https://github.com/namozhdehi/PowerBI">
-<strong>Vancouver Police Dashboard</strong>
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
-<td>
-<em>Power BI and data visualization</em>
+
+<td width="50%" valign="top">
+<h3>🌐 More Coming Soon</h3>
+<p><strong>Focus:</strong> GIS, Data Science, and Automation</p>
+<p>Additional portfolio projects will continue to focus on spatial analysis, automation, dashboards, and geospatial applications.</p>
 </td>
 </tr>
 </table>
@@ -270,19 +270,18 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <div align="center">
   
-  ### 📊 GitHub Stats
+### 📊 GitHub Stats
   
+<br>
   
-  <br>
+![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
+---
   
-  ---
+<em>💡 "The best way to predict the future is to map it."</em>
   
-  <em>💡 "The best way to predict the future is to map it." </em>
+**⭐ If you find my work interesting, consider giving a star to my projects!**
   
-  **⭐ If you find my work interesting, consider giving a star to my projects!**
-  
-  <sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
+<sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
   
 </div>
