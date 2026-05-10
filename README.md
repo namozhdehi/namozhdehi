@@ -39,34 +39,76 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 - 🛣️ Creating **transportation, utility, pipeline, and smart-city GIS solutions**
 
 ---
-
 ## 💎 Core Competencies
 
 <table>
 <tr>
-<td align="center" width="20%"><img src="https://img.icons8.com/color/96/worldwide-location.png" width="64px"></td>
-<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px"></td>
-<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"></td>
-<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/chat.png" width="60px"></td>
-<td align="center" width="20%"><img src="https://img.icons8.com/color/96/000000/brain.png" width="60px"></td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/worldwide-location.png" width="64px">
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px">
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px">
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/chat.png" width="60px">
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/brain.png" width="60px">
+</td>
 </tr>
 
 <tr>
-<td align="center"><strong>GIS Analysis</strong></td>
-<td align="center"><strong>Data Analytics</strong></td>
-<td align="center"><strong>Machine Learning</strong></td>
-<td align="center"><strong>NLP</strong></td>
-<td align="center"><strong>Generative AI</strong></td>
+<td align="center" style="border-color:white;">
+<strong>GIS Analysis</strong>
+</td>
+
+<td align="center" style="border-color:white;">
+<strong>Data Analytics</strong>
+</td>
+
+<td align="center" style="border-color:white;">
+<strong>Machine Learning</strong>
+</td>
+
+<td align="center" style="border-color:white;">
+<strong>NLP</strong>
+</td>
+
+<td align="center" style="border-color:white;">
+<strong>Generative AI</strong>
+</td>
 </tr>
 
 <tr>
-<td align="center"><sub>Network analysis, spatial validation, QA/QC</sub></td>
-<td align="center"><sub>Python, SQL, spatial pipelines</sub></td>
-<td align="center"><sub>Predictive modeling, computer vision</sub></td>
-<td align="center"><sub>Text classification, sentiment analysis</sub></td>
-<td align="center"><sub>LLMs, prompt engineering</sub></td>
+<td align="center">
+<sub>Network analysis, spatial validation, QA/QC</sub>
+</td>
+
+<td align="center">
+<sub>Python, SQL, spatial pipelines</sub>
+</td>
+
+<td align="center">
+<sub>Predictive modeling, computer vision</sub>
+</td>
+
+<td align="center">
+<sub>Text classification, sentiment analysis</sub>
+</td>
+
+<td align="center">
+<sub>LLMs, prompt engineering</sub>
+</td>
 </tr>
 </table>
+
 
 ---
 
