@@ -125,7 +125,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
     <li><a href="https://github.com/namozhdehi/PowerBI">Vancouver Police Department Dashboard (Power BI)</a></li>
   </ul>
 </details>
-
+---
 <table>
 <tr>
 <td width="5%">🔍</td>
