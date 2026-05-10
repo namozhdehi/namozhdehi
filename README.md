@@ -1,19 +1,33 @@
 <div align="center">
-    <h1>👋 Hi, I'm Nahid Mozhdehi</h1>
-    <h3>🗺️ GIS Analyst | 🌍 Geospatial Engineer | 📊 Data Scientist</h3>
-    <p><em>Turning spatial data into actionable insights</em></p>
-    
-    <p align="center">
-      <a href="https://www.linkedin.com/in/nahidmozhdehi">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="mailto:namojdehi@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-      <a href="https://github.com/namozhdehi">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </p>
+
+# 👋 Hi, I'm Nahid Mozhdehi
+
+### 🗺️ GIS Analyst | 🌍 Geospatial Engineer | 📊 Data Scientist
+
+*Turning spatial data into actionable insights*
+
+<br>
+
+<a href="https://www.linkedin.com/in/nahidmozhdehi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:namojdehi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/namozhdehi">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/outputs/dc_top_attractions_map.png?raw=true" 
+       alt="GIS Portfolio" 
+       width="100%">
 </div>
 
 <br>
