@@ -239,7 +239,6 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <div align="center">
 
 ### 📊 GitHub Activity
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
 
