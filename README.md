@@ -116,41 +116,69 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 </table>
 
 <details>
-  <summary><strong>📚 More Projects</strong></summary>
-  <ul>
-    <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Amazon Fine Food Reviews (NLP)</a></li>
-    <li><a href="https://github.com/namozhdehi/Pneumonia-">Pneumonia Detection Using PyTorch, TensorFlow, Keras (Deep Learning)</a></li>
-    <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Pathrise (NLP)</a></li>
-    <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">E-commerce Clustering Analysis</a></li>
-    <li><a href="https://github.com/namozhdehi/PowerBI">Vancouver Police Department Dashboard (Power BI)</a></li>
-  </ul>
-</details>
----
+<summary><strong>📚 More Projects</strong></summary>
+
+<br>
+
 <table>
 <tr>
 <td width="5%">🔍</td>
-<td width="45%"><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews"><strong>Amazon Fine Food Reviews</strong></a></td>
-<td width="50%"><em>Natural Language Processing</em></td>
+<td width="45%">
+<a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">
+<strong>Amazon Fine Food Reviews</strong>
+</a>
+</td>
+<td width="50%">
+<em>Natural Language Processing</em>
+</td>
 </tr>
+
 <tr>
 <td>🩺</td>
-<td><a href="https://github.com/namozhdehi/Pneumonia-"><strong>Pneumonia Detection</strong></a></td>
-<td><em>Deep Learning with PyTorch, TensorFlow, and Keras</em></td>
+<td>
+<a href="https://github.com/namozhdehi/Pneumonia-">
+<strong>Pneumonia Detection</strong>
+</a>
+</td>
+<td>
+<em>Deep Learning with PyTorch, TensorFlow, and Keras</em>
+</td>
 </tr>
+
 <tr>
 <td>📝</td>
-<td><a href="https://github.com/namozhdehi/Pathrise/tree/main"><strong>Pathrise</strong></a></td>
-<td><em>Natural Language Processing</em></td>
+<td>
+<a href="https://github.com/namozhdehi/Pathrise/tree/main">
+<strong>Pathrise</strong>
+</a>
+</td>
+<td>
+<em>Natural Language Processing</em>
+</td>
 </tr>
+
 <tr>
 <td>🛒</td>
-<td><a href="https://github.com/namozhdehi/Ecommerce_Clustring"><strong>E-commerce Clustering</strong></a></td>
-<td><em>Machine Learning and clustering</em></td>
+<td>
+<a href="https://github.com/namozhdehi/Ecommerce_Clustring">
+<strong>E-commerce Clustering</strong>
+</a>
+</td>
+<td>
+<em>Machine Learning and clustering</em>
+</td>
 </tr>
+
 <tr>
 <td>📊</td>
-<td><a href="https://github.com/namozhdehi/PowerBI"><strong>Vancouver Police Dashboard</strong></a></td>
-<td><em>Power BI and data visualization</em></td>
+<td>
+<a href="https://github.com/namozhdehi/PowerBI">
+<strong>Vancouver Police Dashboard</strong>
+</a>
+</td>
+<td>
+<em>Power BI and data visualization</em>
+</td>
 </tr>
 </table>
 
