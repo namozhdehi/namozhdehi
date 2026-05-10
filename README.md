@@ -44,8 +44,8 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/worldwide-location.png" width="72px"><br><br>
-<strong>GIS Analysis</strong>
+<img src="https://img.icons8.com/color/96/worldwide-location.png" width="64px"><br>
+<strong>GIS Analysis</strong><br>
 <sub>Network analysis, spatial validation, QA/QC</sub>
 </td>
 <td align="center" width="20%">
