@@ -126,40 +126,9 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
   </ul>
 </details>
 
-<h2>🏆 Certifications</h2>
-<ul>
-  <li>
-    <strong>Advanced QGIS</strong> - QGIS.org <em>(May 2026)</em>
-    <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" height="18">
-  </li>
-  <li>
-    <strong>FME Form Basic</strong> - FME <em>(Apr 2026)</em>
-    <img src="https://img.shields.io/badge/FME-0066CC?style=flat-square" alt="FME" height="18">
-  </li>
-  <li>
-    <strong>Oracle Cloud Infrastructure Foundation</strong> - Oracle <em>(Jan 2025)</em>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="18">
-  </li>
-  <li>
-    <strong>Geospatial Analysis with ArcGIS</strong> - FME <em>(Apr 2026)</em>
-    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS" height="18">
-  </li>
-  <li>
-    <strong>IBM AI Engineering</strong> - IBM <em>(Dec 2024)</em>
-    <img src="https://img.shields.io/badge/IBM-0530AD?style=flat-square&logo=ibm&logoColor=white" alt="IBM" height="18">
-  </li>
-  <li>
-    <strong>Data Analytics with Tableau</strong> - Salesforce <em>(Nov 2024)</em>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="18">
-  </li>
-</ul>
 
-<h2>🎓 Education</h2>
-<ul>
-  <li> <strong>Master of GIS Management</strong> - Salisbury University (2027)</li>
-  <li> <strong>Data Science Fellow</strong> - Springboard (2024)</li>
-  <li> <strong>Master's Degree</strong> - Shiraz University (2008)</li>
-</ul>
+
+
 
 <h2>🛠️ Technical Stack</h2>
 
