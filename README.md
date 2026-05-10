@@ -175,23 +175,29 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ## 🛠️ Technical Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logoColor=white" alt="ArcGIS" />
-<img src="https://img.shields.io/badge/FME-FF6B00?style=for-the-badge&logoColor=white" alt="FME" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+### GIS & Spatial
+<p>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FME-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white" alt="GeoPandas" />
-<img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logoColor=white" alt="GDAL" />
-<img src="https://img.shields.io/badge/Rasterio-8B4513?style=for-the-badge&logoColor=white" alt="Rasterio" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+### Data & Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rasterio-8B4513?style=for-the-badge" />
+</p>
+
+### Cloud & Analytics
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
