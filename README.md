@@ -98,13 +98,32 @@
 </details>
 
 <h2>🏆 Certifications</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced_QGIS-QGIS.org-589632?style=flat-square" alt="QGIS">
-  <img src="https://img.shields.io/badge/FME_Form_Basic-FME-0066CC?style=flat-square" alt="FME">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Oracle-F80000?style=flat-square" alt="Oracle">
-  <img src="https://img.shields.io/badge/IBM_AI_Engineering-IBM-0530AD?style=flat-square" alt="IBM">
-  <img src="https://img.shields.io/badge/Tableau-Salesforce-E97627?style=flat-square" alt="Tableau">
-</p>
+<ul>
+  <li>
+    <strong>Advanced QGIS</strong> - QGIS.org <em>(May 2026)</em>
+    <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" height="18">
+  </li>
+  <li>
+    <strong>FME Form Basic</strong> - FME <em>(Apr 2026)</em>
+    <img src="https://img.shields.io/badge/FME-0066CC?style=flat-square" alt="FME" height="18">
+  </li>
+  <li>
+    <strong>Oracle Cloud Infrastructure Foundation</strong> - Oracle <em>(Jan 2025)</em>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="18">
+  </li>
+  <li>
+    <strong>Geospatial Analysis with ArcGIS</strong> - FME <em>(Apr 2026)</em>
+    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS" height="18">
+  </li>
+  <li>
+    <strong>IBM AI Engineering</strong> - IBM <em>(Dec 2024)</em>
+    <img src="https://img.shields.io/badge/IBM-0530AD?style=flat-square&logo=ibm&logoColor=white" alt="IBM" height="18">
+  </li>
+  <li>
+    <strong>Data Analytics with Tableau</strong> - Salesforce <em>(Nov 2024)</em>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="18">
+  </li>
+</ul>
 
 <h2>🎓 Education</h2>
 <ul>
