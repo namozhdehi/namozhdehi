@@ -24,12 +24,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/outputs/dc_top_attractions_map.png?raw=true" 
-       alt="GIS Portfolio" 
-       width="100%">
-</div>
-
 <br>
 
 <div align="center">
