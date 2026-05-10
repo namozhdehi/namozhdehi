@@ -126,60 +126,72 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🔍 Amazon Fine Food Reviews</h3>
-<p><strong>Focus:</strong> Natural Language Processing</p>
-<p>Text analysis project focused on review classification, sentiment patterns, and NLP-based insight extraction.</p>
+
+### 🔍 Amazon Fine Food Reviews
+Natural Language Processing
+
 <a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" alt="View Project">
 </a>
+
 </td>
 
 <td width="50%" valign="top">
-<h3>🩺 Pneumonia Detection</h3>
-<p><strong>Focus:</strong> Deep Learning</p>
-<p>Medical image classification project using PyTorch, TensorFlow, and Keras for pneumonia detection.</p>
+
+### 🩺 Pneumonia Detection
+Deep Learning
+
 <a href="https://github.com/namozhdehi/Pneumonia-">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" alt="View Project">
 </a>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<h3>📝 Pathrise</h3>
-<p><strong>Focus:</strong> Natural Language Processing</p>
-<p>NLP project applying text processing and machine learning techniques to analyze career-related data.</p>
+
+### 📝 Pathrise
+Natural Language Processing
+
 <a href="https://github.com/namozhdehi/Pathrise/tree/main">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" alt="View Project">
 </a>
+
 </td>
 
 <td width="50%" valign="top">
-<h3>🛒 E-commerce Clustering</h3>
-<p><strong>Focus:</strong> Machine Learning</p>
-<p>Customer and product clustering analysis using unsupervised learning to identify meaningful behavioral groups.</p>
+
+### 🛒 E-commerce Clustering
+Machine Learning
+
 <a href="https://github.com/namozhdehi/Ecommerce_Clustring">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" alt="View Project">
 </a>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<h3>📊 Vancouver Police Dashboard</h3>
-<p><strong>Focus:</strong> Power BI and Data Visualization</p>
-<p>Interactive dashboard project for analyzing police-related data and communicating trends through visual analytics.</p>
+
+### 📊 Vancouver Police Dashboard
+Power BI & Data Visualization
+
 <a href="https://github.com/namozhdehi/PowerBI">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" alt="View Project">
 </a>
+
 </td>
 
 <td width="50%" valign="top">
-<h3>🌐 More Coming Soon</h3>
-<p><strong>Focus:</strong> GIS, Data Science, and Automation</p>
-<p>Additional portfolio projects will continue to focus on spatial analysis, automation, dashboards, and geospatial applications.</p>
+
+### 🌐 More Coming Soon
+GIS, Data Science, and Automation
+
 </td>
 </tr>
+
 </table>
 
 </details>
