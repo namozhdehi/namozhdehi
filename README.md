@@ -240,7 +240,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ### 📊 GitHub Activity
 
-<img src="https://img.shields.io/badge/Contributions%20Last%20Year-257-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="257 contributions in the last year">
+
 
 <br><br>
 
