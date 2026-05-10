@@ -167,23 +167,9 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="45%"><strong>Master of GIS Management</strong></td>
-<td width="35%">Salisbury University</td>
-<td width="20%" align="right"><em>2027</em></td>
-</tr>
-<tr>
-<td><strong>Data Science Fellow</strong></td>
-<td>Springboard</td>
-<td align="right"><em>2024</em></td>
-</tr>
-<tr>
-<td><strong>Master's Degree</strong></td>
-<td>Shiraz University</td>
-<td align="right"><em>2008</em></td>
-</tr>
-</table>
+- **Master of GIS Management** — Salisbury University *(2027)*
+- **Data Science Fellow** — Springboard *(2024)*
+- **Master's Degree** — Shiraz University *(2008)*
 
 ---
 
