@@ -43,72 +43,39 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/worldwide-location.png" width="64px">
-</td>
 
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px">
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px">
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/chat.png" width="60px">
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/brain.png" width="60px">
-</td>
-</tr>
-
-<tr>
-<td align="center" style="border-color:white;">
-<strong>GIS Analysis</strong>
-</td>
-
-<td align="center" style="border-color:white;">
-<strong>Data Analytics</strong>
-</td>
-
-<td align="center" style="border-color:white;">
-<strong>Machine Learning</strong>
-</td>
-
-<td align="center" style="border-color:white;">
-<strong>NLP</strong>
-</td>
-
-<td align="center" style="border-color:white;">
-<strong>Generative AI</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center">
+<img src="https://img.icons8.com/color/96/worldwide-location.png" width="60px"><br>
+<strong>GIS Analysis</strong><br>
 <sub>Network analysis, spatial validation, QA/QC</sub>
 </td>
 
-<td align="center">
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px"><br>
+<strong>Data Analytics</strong><br>
 <sub>Python, SQL, spatial pipelines</sub>
 </td>
 
-<td align="center">
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"><br>
+<strong>Machine Learning</strong><br>
 <sub>Predictive modeling, computer vision</sub>
 </td>
 
-<td align="center">
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/chat.png" width="60px"><br>
+<strong>NLP</strong><br>
 <sub>Text classification, sentiment analysis</sub>
 </td>
 
-<td align="center">
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/brain.png" width="60px"><br>
+<strong>Generative AI</strong><br>
 <sub>LLMs, prompt engineering</sub>
 </td>
+
 </tr>
 </table>
-
 
 ---
 
