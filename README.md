@@ -74,28 +74,94 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ---
 
-## 🚀 Featured Projects
+<h2>📂 Featured Projects</h2>
 
 <table>
-<tr>
+  <tr>
+    <td width="50%">
+      <h3>🚨 Utility Emergency Response Routing</h3>
+      <p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM</p>
+      <p>Interactive GIS web app with real-time routing, severity classification, and DC boundary validation.</p>
+      <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
+        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🏙️ Mapping the Unseen City DC</h3>
+      <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
+      <p>Advanced terrain analysis using LiDAR data for urban planning insights.</p>
+      <a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">
+        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ EV Charging Gap Analyzer</h3>
+      <p><strong>Tech:</strong> Python, LiDAR, Spatial Analysis</p>
+      <p>Identifying EV infrastructure gaps using geospatial data analysis.</p>
+      <a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
+        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🗺️ DC Smart Travel Planner</h3>
+      <p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
+      <p>Interactive travel planning tool with route optimization.</p>
+      <a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
+        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<td width="50%" valign="top" align="center">
+<details>
+  <summary><strong>📚 More Projects</strong></summary>
+  <ul>
+    <li><a href="https://github.com/namozhdehi/Amazon-Fine-Food-Reviews">Amazon Fine Food Reviews (NLP)</a></li>
+    <li><a href="https://github.com/namozhdehi/Pneumonia-">Pneumonia Detection Using PyTorch, TensorFlow, Keras (Deep Learning)</a></li>
+    <li><a href="https://github.com/namozhdehi/Pathrise/tree/main">Pathrise (NLP)</a></li>
+    <li><a href="https://github.com/namozhdehi/Ecommerce_Clustring">E-commerce Clustering Analysis</a></li>
+    <li><a href="https://github.com/namozhdehi/PowerBI">Vancouver Police Department Dashboard (Power BI)</a></li>
+  </ul>
+</details>
 
-<h3>🚨 Utility Emergency Response Routing</h3>
+<h2>🏆 Certifications</h2>
+<ul>
+  <li>
+    <strong>Advanced QGIS</strong> - QGIS.org <em>(May 2026)</em>
+    <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" height="18">
+  </li>
+  <li>
+    <strong>FME Form Basic</strong> - FME <em>(Apr 2026)</em>
+    <img src="https://img.shields.io/badge/FME-0066CC?style=flat-square" alt="FME" height="18">
+  </li>
+  <li>
+    <strong>Oracle Cloud Infrastructure Foundation</strong> - Oracle <em>(Jan 2025)</em>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="18">
+  </li>
+  <li>
+    <strong>Geospatial Analysis with ArcGIS</strong> - FME <em>(Apr 2026)</em>
+    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS" height="18">
+  </li>
+  <li>
+    <strong>IBM AI Engineering</strong> - IBM <em>(Dec 2024)</em>
+    <img src="https://img.shields.io/badge/IBM-0530AD?style=flat-square&logo=ibm&logoColor=white" alt="IBM" height="18">
+  </li>
+  <li>
+    <strong>Data Analytics with Tableau</strong> - Salesforce <em>(Nov 2024)</em>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="18">
+  </li>
+</ul>
 
-<strong>Real-time routing for utility outage response</strong>
+<h2>🎓 Education</h2>
+<ul>
+  <li> <strong>Master of GIS Management</strong> - Salisbury University (2027)</li>
+  <li> <strong>Data Science Fellow</strong> - Springboard (2024)</li>
+  <li> <strong>Master's Degree</strong> - Shiraz University (2008)</li>
+</ul>
 
-<br><br>
-
-<a href="https://namozhdehi.github.io/utility-emergency-response-routing-analysis/">
-<img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge" alt="Live Demo">
-</a>
-
-<a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-</a>
-
-<br><br>
+<h2>🛠️ Technical Stack</h2>
 
 <strong>Tech Stack</strong>
 
