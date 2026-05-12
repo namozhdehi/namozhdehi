@@ -84,39 +84,38 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <table>
 
 <tr>
-<td width="50%">
-<h3>🚨 Utility Emergency Response Routing</h3>
-<p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM</p>
+<td colspan="2">
+<h3>🚨 Utility Emergency Response GIS Platform</h3>
+
 <p>
-Interactive GIS web app with real-time routing, severity classification, operational dashboards, and Washington DC boundary validation.
+<strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM, ArcGIS Online, ArcGIS Instant Apps
+</p>
+
+<p>
+End-to-end utility emergency response GIS platform with two professional implementations: an open-source QGIS/Leaflet routing application and an ArcGIS Online operations portfolio. The project demonstrates incident severity mapping, depot visualization, service coverage zones, operational dashboards, interactive legend filtering, popup configuration, label halo styling, clutter reduction, and emergency response workflow design.
+</p>
+
+<p>
+<strong>Open-source GIS version:</strong> custom Leaflet web app using QGIS, Python, PostGIS, and OSRM for routing and spatial analysis.
+</p>
+
+<p>
+<strong>ArcGIS Online version:</strong> public Web GIS presentation layer using Map Viewer, Basic Media Map, Sidebar App, Interactive Legend App, and Portfolio App.
 </p>
 
 <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/QGIS_Leaflet_Project-2ea44f?style=for-the-badge" alt="QGIS Leaflet Project">
 </a>
-</td>
-
-<td width="50%">
-<h3>🚨 Smart Utility ArcGIS Operations Dashboard</h3>
-
-<p><strong>Tech:</strong> ArcGIS Online, ArcGIS Instant Apps, Web GIS</p>
-
-<p>
-Enterprise-style operational GIS platform for utility incident monitoring, severity analysis, interactive dashboards, operational cartography, and portfolio-based ArcGIS application workflows.
-</p>
 
 <a href="https://github.com/namozhdehi/smart-utility-arcgis-operations-dashboard">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+<img src="https://img.shields.io/badge/ArcGIS_Repo-2C7AC3?style=for-the-badge" alt="ArcGIS Repo">
 </a>
 
 <a href="https://www.arcgis.com/apps/instant/portfolio/index.html?appid=ec7a48d385db43b1ae6ad2151c5f1cb4">
-<img src="https://img.shields.io/badge/Live_ArcGIS_App-1E90FF?style=for-the-badge" alt="Live ArcGIS App">
+<img src="https://img.shields.io/badge/Live_ArcGIS_Portfolio-1E90FF?style=for-the-badge" alt="Live ArcGIS Portfolio">
 </a>
-
 </td>
 </tr>
-
-<tr>
 <td width="50%">
 <h3>🏙️ Mapping the Unseen City DC</h3>
 <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
