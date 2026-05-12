@@ -82,15 +82,20 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <h2>📂 Featured Projects</h2>
 
 <table>
+
 <tr>
 <td width="50%">
 <h3>🚨 Utility Emergency Response Routing</h3>
 <p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM</p>
-<p>Interactive GIS web app with real-time routing, severity classification, and DC boundary validation.</p>
+<p>
+Interactive GIS web app with real-time routing, severity classification, operational dashboards, and Washington DC boundary validation.
+</p>
+
 <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
+
 <td width="50%">
 <h3>🚨 Smart Utility ArcGIS Operations Dashboard</h3>
 
@@ -110,11 +115,29 @@ Enterprise-style operational GIS platform for utility incident monitoring, sever
 
 </td>
 </tr>
+
+<tr>
 <td width="50%">
 <h3>🏙️ Mapping the Unseen City DC</h3>
 <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
-<p>Advanced terrain analysis using LiDAR data for urban planning insights.</p>
+<p>
+Advanced terrain analysis using LiDAR-derived DEMs for urban mobility, bikeability, slope analysis, and operational GIS cartography.
+</p>
+
 <a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+</a>
+</td>
+
+<td width="50%">
+<h3>⚡ EV Charging Gap Analyzer</h3>
+<p><strong>Tech:</strong> Python, GeoPandas, Rasterio, Spatial Analysis</p>
+
+<p>
+Geospatial analysis workflow for identifying EV infrastructure accessibility gaps using spatial clustering and terrain-aware GIS analysis.
+</p>
+
+<a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
@@ -122,23 +145,22 @@ Enterprise-style operational GIS platform for utility incident monitoring, sever
 
 <tr>
 <td width="50%">
-<h3>⚡ EV Charging Gap Analyzer</h3>
-<p><strong>Tech:</strong> Python, LiDAR, Spatial Analysis</p>
-<p>Identifying EV infrastructure gaps using geospatial data analysis.</p>
-<a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">
+<h3>🗺️ DC Smart Travel Planner</h3>
+<p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
+
+<p>
+Interactive travel planning platform using OpenStreetMap, clustering workflows, and GIS-based destination prioritization.
+</p>
+
+<a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
 
 <td width="50%">
-<h3>🗺️ DC Smart Travel Planner</h3>
-<p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
-<p>Interactive travel planning tool with route optimization.</p>
-<a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-</a>
 </td>
 </tr>
+
 </table>
 
 <details>
