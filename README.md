@@ -91,7 +91,25 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
 </a>
 </td>
+<td width="50%">
+<h3>🚨 Smart Utility ArcGIS Operations Dashboard</h3>
 
+<p><strong>Tech:</strong> ArcGIS Online, ArcGIS Instant Apps, Web GIS</p>
+
+<p>
+Enterprise-style operational GIS platform for utility incident monitoring, severity analysis, interactive dashboards, operational cartography, and portfolio-based ArcGIS application workflows.
+</p>
+
+<a href="https://github.com/namozhdehi/smart-utility-arcgis-operations-dashboard">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
+</a>
+
+<a href="https://www.arcgis.com/apps/instant/portfolio/index.html?appid=ec7a48d385db43b1ae6ad2151c5f1cb4">
+<img src="https://img.shields.io/badge/Live_ArcGIS_App-1E90FF?style=for-the-badge" alt="Live ArcGIS App">
+</a>
+
+</td>
+</tr>
 <td width="50%">
 <h3>🏙️ Mapping the Unseen City DC</h3>
 <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
