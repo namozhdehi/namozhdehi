@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nahid Mozhdehi
 
-### 🗺️ GIS Analyst | 🌍 GIS Specialist
+### 🗺️ GIS Developer | 🌍 Geospatial Engineer | 🐍 GIS Automation
 
 
 *Turning spatial data into actionable insights*
