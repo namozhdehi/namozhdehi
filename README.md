@@ -171,12 +171,19 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 - Geospatial Analysis with ArcGIS — UC Davis (Apr 2025)
 - IBM AI Engineering — IBM (Dec 2024)
 - Data Analytics with Tableau — Salesforce (Nov 2024)
-🎓 Education
-- Master of GIS Management — Salisbury University (2027)
-- Data Science Fellow — Springboard (2024)
-- Master's Degree — Shiraz University (2008)
-🛠️ Technical Stack
-🗺️ GIS & Spatial
+  
+
+## 🎓 Education
+
+- **Master of GIS Management** — Salisbury University *(2027)*
+- **Data Science Fellow** — Springboard *(2024)*
+- **Master's Degree** — Shiraz University *(2008)*
+
+---
+
+## 🛠️ Technical Stack
+
+### 🗺️ GIS & Spatial
 <p>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge" />
@@ -184,7 +191,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
-🐍 Data Engineering & Programming
+### 🐍 Data Engineering & Programming
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -195,7 +202,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <img src="https://img.shields.io/badge/Rasterio-8B4513?style=for-the-badge" />
 </p>
 
-☁️ Cloud & Analytics
+### ☁️ Cloud & Analytics
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -203,11 +210,20 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
+---
+
 <div align="center">
 
-📊 GitHub Activity
+### 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
+
+---
 
 <em>💡 "The best way to predict the future is to map it."</em>
-⭐ If you find my work interesting, consider giving a star to my projects!
+
+**⭐ If you find my work interesting, consider giving a star to my projects!**
+
 <sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
+
 </div>
