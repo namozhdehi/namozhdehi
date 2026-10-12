@@ -1,134 +1,84 @@
 <div align="center">
 
-# 👋 Hi, I'm Nahid Mozhdehi
+<img src="https://raw.githubusercontent.com/namozhdehi/namozhdehi/main/GitHub.png" alt="Nahid Mozhdehi | Digital Twin and GIS Intelligence" width="100%">
 
-### 🗺️ GIS Developer | 🌍 Geospatial Engineer | 🐍 GIS Automation
+# Nahid Mozhdehi
 
+### GIS Developer · Geospatial Engineer · GIS Automation
 
-*Turning spatial data into actionable insights*
+*Building intelligent maps, spatial data pipelines, and Web GIS solutions.*
 
-<br>
-
-<a href="https://www.linkedin.com/in/nahidmozhdehi">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:namojdehi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<a href="https://www.linkedin.com/in/nahidmozhdehi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:namojdehi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://experience.arcgis.com/experience/ff57671b0d8247e7b73cbd19a27c2532"><img src="https://img.shields.io/badge/Explore_Live_GIS_App-008B8B?style=flat-square" alt="Explore Live GIS App"></a>
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/outputs/dc_top_attractions_map.png?raw=true" alt="GIS Portfolio" width="100%">
-</div>
-
-<br>
-
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **GIS Analyst and Geospatial Engineer** specializing in:
+I'm a **GIS Developer and Geospatial Engineer** with a background in software development, spatial analytics, and data engineering. I build geospatial applications and automated workflows that turn complex location data into useful decisions for **transportation, utilities, infrastructure, and smart cities**.
 
-- Building **Python-based geospatial data pipelines** for enterprise environments
-- Automating spatial data integration with **ArcGIS Pro, QGIS, PostGIS, and FME**
-- Managing multi-source datasets: **CAD, KML, GPS, LiDAR, DEM, raster data**
-- Developing **AWS-based GIS workflows** with Lambda, S3, and Step Functions
-- Creating **transportation, utility, pipeline, and smart-city GIS solutions**
+- **GIS development:** ArcGIS Pro, ArcGIS Online, QGIS, Web GIS, and spatial databases
+- **Automation and data engineering:** Python, ArcPy, SQL, FME, and cloud-based pipelines
+- **Spatial intelligence:** Network analysis, accessibility modeling, LiDAR, DEM, and spatial QA/QC
+- **Interactive applications:** GIS dashboards, web maps, and decision-support tools
 
----
-## 💎 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/worldwide-location.png" width="60px"><br>
-<strong>GIS Analysis</strong><br>
-<sub>Network analysis, spatial validation, QA/QC</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60px"><br>
-<strong>Data Analytics</strong><br>
-<sub>Python, SQL, spatial pipelines</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"><br>
-<strong>Machine Learning</strong><br>
-<sub>Predictive modeling, computer vision</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/chat.png" width="60px"><br>
-<strong>NLP</strong><br>
-<sub>Text classification, sentiment analysis</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/brain.png" width="60px"><br>
-<strong>Generative AI</strong><br>
-<sub>LLMs, prompt engineering</sub>
-</td>
-
+<td align="center" width="20%"><strong>GIS Development</strong><br><sub>ArcGIS · QGIS · Web GIS</sub></td>
+<td align="center" width="20%"><strong>Spatial Analysis</strong><br><sub>Networks · Accessibility · Raster</sub></td>
+<td align="center" width="20%"><strong>GIS Automation</strong><br><sub>Python · ArcPy · FME</sub></td>
+<td align="center" width="20%"><strong>Data Engineering</strong><br><sub>SQL · PostGIS · Cloud</sub></td>
+<td align="center" width="20%"><strong>GeoAI & Analytics</strong><br><sub>ML · Visualization · AI</sub></td>
 </tr>
 </table>
 
-<h2>📂 Featured Projects</h2>
+---
+
+## Featured Projects
 
 <table>
-  <tr>
-    <td colspan="2">
-      <h3>🌳 DC Park Accessibility &amp; Priority Planner</h3>
-      <p><strong>Tech:</strong> ArcGIS Pro, ModelBuilder, ArcPy, Python, ArcGIS Online, Experience Builder, Spatial Analysis</p>
-      <p>End-to-end GIS project evaluating park accessibility and prioritizing potential park investment areas in Washington, DC. Analyzed 147 usable parks and 571 Census block groups using 800-meter straight-line buffers, identifying 6 underserved block groups representing 4,237 residents and ranking 4 populated priority areas.</p>
-      <p><strong>GIS Automation:</strong> Developed and validated repeatable geoprocessing workflows using ArcGIS ModelBuilder and ArcPy for spatial screening, population density calculations, proximity analysis, and weighted priority scoring.</p>
-      <p><strong>Interactive Web GIS:</strong> Published a mobile-friendly ArcGIS Experience Builder application with an interactive map and ranked priority locations.</p>
-      <p>
-        <a href="https://github.com/namozhdehi/DC_Park_Accessibility_Planner"><img src="https://img.shields.io/badge/View_GitHub_Project-2ea44f?style=for-the-badge" alt="View GitHub Project"></a>
-        <a href="https://experience.arcgis.com/experience/ff57671b0d8247e7b73cbd19a27c2532"><img src="https://img.shields.io/badge/Live_Interactive_Map-1E90FF?style=for-the-badge" alt="Live Interactive Map"></a>
-      </p>
-      <img src="https://raw.githubusercontent.com/namozhdehi/DC_Park_Accessibility_Planner/main/outputs/DC_Park_Accessibility_Final.png" alt="DC Park Accessibility and Priority Analysis" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚨 Utility Emergency Response GIS Platform</h3>
-      <p><strong>Tech:</strong> QGIS, Python, PostGIS, Leaflet, OSRM, ArcGIS Online, ArcGIS Instant Apps</p>
-      <p>End-to-end utility emergency response GIS platform combining an open-source QGIS/Leaflet routing application with an ArcGIS Online operations portfolio. Includes incident severity mapping, depot visualization, service coverage zones, operational dashboards, and interactive Web GIS applications.</p>
-      <p><strong>Open-source GIS:</strong> QGIS, Python, PostGIS, Leaflet, and OSRM for routing and spatial analysis.</p>
-      <p><strong>ArcGIS Online:</strong> Map Viewer, Basic Media Map, Sidebar App, Interactive Legend App, and Portfolio App.</p>
-      <p>
-        <a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis"><img src="https://img.shields.io/badge/QGIS_Project-2ea44f?style=for-the-badge" alt="QGIS Project"></a>
-        <a href="https://github.com/namozhdehi/smart-utility-arcgis-operations-dashboard"><img src="https://img.shields.io/badge/ArcGIS_Repo-2C7AC3?style=for-the-badge" alt="ArcGIS Repo"></a>
-        <a href="https://www.arcgis.com/apps/instant/portfolio/index.html?appid=ec7a48d385db43b1ae6ad2151c5f1cb4"><img src="https://img.shields.io/badge/Live_App-1E90FF?style=for-the-badge" alt="Live ArcGIS Portfolio"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏙️ Mapping the Unseen City DC</h3>
-      <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
-      <p>Advanced terrain analysis using LiDAR-derived DEMs for urban mobility, bikeability, slope analysis, and operational GIS cartography.</p>
-      <p><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc"><img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project"></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ EV Charging Gap Analyzer</h3>
-      <p><strong>Tech:</strong> Python, GeoPandas, Rasterio, Spatial Analysis</p>
-      <p>Geospatial analysis workflow for identifying EV infrastructure accessibility gaps using spatial clustering and terrain-aware GIS analysis.</p>
-      <p><a href="https://github.com/namozhdehi/ev-charging-gap-analyzer"><img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project"></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ DC Smart Travel Planner</h3>
-      <p><strong>Tech:</strong> QGIS, Python, Leaflet</p>
-      <p>Interactive travel planning platform using OpenStreetMap, clustering workflows, and GIS-based destination prioritization.</p>
-      <p><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner"><img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project"></a></p>
-    </td>
-  </tr>
+<tr><td colspan="2" valign="top">
+
+<h3>DC Park Accessibility &amp; Priority Planner</h3>
+<p><strong>ArcGIS Pro · ModelBuilder · ArcPy · Experience Builder</strong></p>
+<p>Built an end-to-end GIS accessibility analysis for Washington, DC, evaluating <strong>147 parks</strong> and <strong>571 Census block groups</strong>. Identified <strong>6 underserved block groups</strong> representing <strong>4,237 residents</strong>, and ranked four populated priority areas using a weighted spatial scoring model.</p>
+<p><a href="https://github.com/namozhdehi/DC_Park_Accessibility_Planner"><img src="https://img.shields.io/badge/Source_Code-2E8B57?style=flat-square&logo=github&logoColor=white" alt="Source Code"></a> <a href="https://experience.arcgis.com/experience/ff57671b0d8247e7b73cbd19a27c2532"><img src="https://img.shields.io/badge/Live_Interactive_Map-0077B6?style=flat-square" alt="Live Interactive Map"></a></p>
+<img src="https://raw.githubusercontent.com/namozhdehi/DC_Park_Accessibility_Planner/main/outputs/DC_Park_Accessibility_Final.png" alt="DC park accessibility and priority analysis map" width="100%">
+
+</td></tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Utility Emergency Response GIS Platform</h3>
+<p><strong>QGIS · Python · PostGIS · Leaflet · OSRM · ArcGIS Online</strong></p>
+<p>Developed open-source routing and ArcGIS Online operations workflows for emergency response, including incident severity maps, service coverage, depots, and interactive dashboards.</p>
+<p><a href="https://github.com/namozhdehi/utility-emergency-response-routing-analysis">QGIS / Leaflet repository</a> · <a href="https://github.com/namozhdehi/smart-utility-arcgis-operations-dashboard">ArcGIS repository</a> · <a href="https://www.arcgis.com/apps/instant/portfolio/index.html?appid=ec7a48d385db43b1ae6ad2151c5f1cb4">Live app</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Mapping the Unseen City DC</h3>
+<p><strong>QGIS Model Builder · Python · LiDAR · DEM</strong></p>
+<p>Terrain and elevation analysis supporting urban mobility, bikeability, slope modeling, and GIS cartography.</p>
+<p><a href="https://github.com/namozhdehi/mapping-the-unseen-city-dc">View project →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>EV Charging Gap Analyzer</h3>
+<p><strong>Python · GeoPandas · Rasterio · Spatial Analysis</strong></p>
+<p>Spatial workflows identifying accessibility gaps in EV charging infrastructure using clustering and terrain-aware analysis.</p>
+<p><a href="https://github.com/namozhdehi/ev-charging-gap-analyzer">View project →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>DC Smart Travel Planner</h3>
+<p><strong>QGIS · Python · Leaflet</strong></p>
+<p>Interactive destination planning with OpenStreetMap data, spatial clustering, and GIS-based prioritization.</p>
+<p><a href="https://github.com/namozhdehi/DC-Smart-Travel-Planner">View project →</a></p>
+</td>
+</tr>
 </table>
 
 <details>
@@ -164,7 +114,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 </details>
 
-🏆 Certifications
+## Certifications
 - Advanced QGIS — QGIS.org (May 2026)
 - FME Form Basic — FME (Apr 2026)
 - Oracle Cloud Infrastructure Foundation — Oracle (Jan 2025)
@@ -173,7 +123,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 - Data Analytics with Tableau — Salesforce (Nov 2024)
   
 
-## 🎓 Education
+## Education
 
 - **Master of GIS Management** — Salisbury University *(2027)*
 - **Data Science Fellow** — Springboard *(2024)*
@@ -181,9 +131,9 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
-### 🗺️ GIS & Spatial
+### GIS & Spatial
 <p>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge" />
@@ -191,7 +141,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
-### 🐍 Data Engineering & Programming
+### Data Engineering & Programming
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -202,7 +152,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 <img src="https://img.shields.io/badge/Rasterio-8B4513?style=for-the-badge" />
 </p>
 
-### ☁️ Cloud & Analytics
+### Cloud & Analytics
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -214,7 +164,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <div align="center">
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
 
