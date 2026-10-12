@@ -164,7 +164,9 @@ I'm a **GIS Developer and Geospatial Engineer** with a background in software de
 
 <div align="center">
 
-### GitHub Activity
+
+
+### 📊 GitHub Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=namozhdehi&color=brightgreen&style=for-the-badge)
 
@@ -175,5 +177,8 @@ I'm a **GIS Developer and Geospatial Engineer** with a background in software de
 **⭐ If you find my work interesting, consider giving a star to my projects!**
 
 <sub>Open for collaboration on GIS, geospatial data science, and machine learning projects.</sub>
+
+</div>
+laboration on GIS, geospatial data science, and machine learning projects.</sub>
 
 </div>
