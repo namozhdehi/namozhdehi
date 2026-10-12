@@ -1,8 +1,13 @@
 <div align="center">
 
-👋 Hi, I'm Nahid Mozhdehi
-🗺️ GIS Analyst | 🌍 GIS Specialist
-Turning spatial data into actionable insights
+# 👋 Hi, I'm Nahid Mozhdehi
+
+### 🗺️ GIS Analyst | 🌍 GIS Specialist
+
+
+*Turning spatial data into actionable insights*
+
+<br>
 
 <a href="https://www.linkedin.com/in/nahidmozhdehi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,20 +19,29 @@ Turning spatial data into actionable insights
 
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://github.com/namozhdehi/DC-Smart-Travel-Planner/blob/main/outputs/dc_top_attractions_map.png?raw=true" alt="GIS Portfolio" width="100%">
 </div>
 
+<br>
 
-👨‍💻 About Me
-I'm a GIS Analyst and Geospatial Engineer specializing in:
-- Building Python-based geospatial data pipelines for enterprise environments
-- Automating spatial data integration with ArcGIS Pro, QGIS, PostGIS, and FME
-- Managing multi-source datasets: CAD, KML, GPS, LiDAR, DEM, raster data
-- Developing AWS-based GIS workflows with Lambda, S3, and Step Functions
-- Creating transportation, utility, pipeline, and smart-city GIS solutions
-💎 Core Competencies
+---
+
+## 👨‍💻 About Me
+
+I'm a **GIS Analyst and Geospatial Engineer** specializing in:
+
+- Building **Python-based geospatial data pipelines** for enterprise environments
+- Automating spatial data integration with **ArcGIS Pro, QGIS, PostGIS, and FME**
+- Managing multi-source datasets: **CAD, KML, GPS, LiDAR, DEM, raster data**
+- Developing **AWS-based GIS workflows** with Lambda, S3, and Step Functions
+- Creating **transportation, utility, pipeline, and smart-city GIS solutions**
+
+---
+## 💎 Core Competencies
+
 <table>
 <tr>
 
