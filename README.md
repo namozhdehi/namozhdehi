@@ -1,9 +1,9 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Nahid Mozhdehi
 
 ### 🗺️ GIS Analyst | 🌍 GIS Specialist
-
 
 *Turning spatial data into actionable insights*
 
@@ -40,6 +40,7 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 - Creating **transportation, utility, pipeline, and smart-city GIS solutions**
 
 ---
+
 ## 💎 Core Competencies
 
 <table>
@@ -86,6 +87,42 @@ I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
 <tr>
 <td colspan="2">
+
+<h3>🌳 DC Park Accessibility &amp; Priority Planner</h3>
+
+<p>
+<strong>Tech:</strong> ArcGIS Pro, ModelBuilder, ArcPy, Python, ArcGIS Online, Experience Builder, Spatial Analysis
+</p>
+
+<p>
+End-to-end GIS project evaluating park accessibility and prioritizing potential park investment areas in Washington, DC. Analyzed 147 usable parks and 571 Census block groups using 800-meter straight-line buffers, identifying 6 underserved block groups representing 4,237 residents and ranking 4 populated priority areas.
+</p>
+
+<p>
+<strong>GIS Automation:</strong> Developed and validated repeatable geoprocessing workflows using ArcGIS ModelBuilder and ArcPy for spatial screening, population density calculations, proximity analysis, and weighted priority scoring.
+</p>
+
+<p>
+<strong>Interactive Web GIS:</strong> Published a mobile-friendly ArcGIS Experience Builder application with an interactive map and ranked priority locations.
+</p>
+
+<p>
+<a href="https://github.com/namozhdehi/DC_Park_Accessibility_Planner">
+<img src="https://img.shields.io/badge/View_GitHub_Project-2ea44f?style=for-the-badge" alt="View GitHub Project">
+</a>
+
+<a href="https://experience.arcgis.com/experience/ff57671b0d8247e7b73cbd19a27c2532">
+<img src="https://img.shields.io/badge/Live_Interactive_Map-1E90FF?style=for-the-badge" alt="Live Interactive Map">
+</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/namozhdehi/DC_Park_Accessibility_Planner/main/outputs/DC_Park_Accessibility_Final.png" alt="DC Park Accessibility and Priority Analysis" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 <h3>🚨 Utility Emergency Response GIS Platform</h3>
 
 <p>
@@ -117,6 +154,8 @@ End-to-end utility emergency response GIS platform with two professional impleme
 </a>
 </td>
 </tr>
+
+<tr>
 <td width="50%">
 <h3>🏙️ Mapping the Unseen City DC</h3>
 <p><strong>Tech:</strong> QGIS Model Builder, Python, LiDAR, DEM</p>
@@ -191,7 +230,7 @@ Interactive travel planning platform using OpenStreetMap, clustering workflows, 
 
 <tr>
 <td>📊 <a href="https://github.com/namozhdehi/PowerBI"><strong>Vancouver Police Dashboard</strong></a></td>
-<td>Power BI & Data Visualization</td>
+<td>Power BI &amp; Data Visualization</td>
 </tr>
 </table>
 
