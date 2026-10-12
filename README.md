@@ -33,11 +33,11 @@
 
 I'm a **GIS Analyst and Geospatial Engineer** specializing in:
 
-- 🛰️ Building **Python-based geospatial data pipelines** for enterprise environments
-- 🗺️ Automating spatial data integration with **ArcGIS Pro, QGIS, PostGIS, and FME**
-- 🌐 Managing multi-source datasets: **CAD, KML, GPS, LiDAR, DEM, raster data**
-- 🚀 Developing **AWS-based GIS workflows** with Lambda, S3, and Step Functions
-- 🛣️ Creating **transportation, utility, pipeline, and smart-city GIS solutions**
+- Building **Python-based geospatial data pipelines** for enterprise environments
+- Automating spatial data integration with **ArcGIS Pro, QGIS, PostGIS, and FME**
+- Managing multi-source datasets: **CAD, KML, GPS, LiDAR, DEM, raster data**
+- Developing **AWS-based GIS workflows** with Lambda, S3, and Step Functions
+- Creating **transportation, utility, pipeline, and smart-city GIS solutions**
 
 ---
 ## 💎 Core Competencies
